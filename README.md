@@ -1,2 +1,2 @@
 # CM12-Theme
-Material Open Source's CM12 theme
+Material Open Source Cyanogenmod 12/12.1 theme
