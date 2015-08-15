@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="calculator_accent_color">#673ab7</color>
+  <color name="calculator_error_color">#ffe91c61</color>
+  <color name="display_background_color">#ffffffff</color>
+  <color name="display_formula_text_color">#ff424242</color>
+  <color name="display_result_text_color">#ff673ab7</color>
+  <color name="pad_numeric_background_color">#ff212121</color>
+  <color name="pad_operator_background_color">#ff424242</color>
+  <color name="pad_advanced_background_color">#ff673ab7</color>
+  <color name="pad_button_text_color">#ffffffff</color>
+  <color name="pad_button_advanced_text_color">#ffffffff</color>
+  <color name="pad_button_ripple_color">#ff7c4dff</color>
+  <color name="pad_button_advanced_ripple_color">#ff7c4dff</color>
+</resources>

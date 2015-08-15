@@ -497,104 +497,98 @@
     <item
         component="ComponentInfo{tv.twitch.android.viewer/tv.twitch.android.apps.SplashScreenActivity}"
         drawable="twitch" />
-
     <item
         component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.apps.SplashScreenActivity}"
         drawable="twitch" />
-
+    <!-- <item component="ComponentInfo{}" drawable="twitter-alt"/> -->
     <item
         component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}"
         drawable="twitter" />
-   
+    <!-- <item
+        component="ComponentInfo{}"
+        drawable="ubby" /> -->
     <item
         component="ComponentInfo{com.ubercab/com.ubercab.UBUberActivity}"
         drawable="uber" />
-
+    <!-- <item component="ComponentInfo{}" drawable="unicon-alt"/> -->
     <item
         component="ComponentInfo{}"
         drawable="unicon" />
-    
+    <!-- <item component="ComponentInfo{}" drawable="usbfolder"/> -->
     <item
         component="ComponentInfo{com.uusafe.appmaster/com.uusafe.appmaster.ui.activity.PermissionScanActivity}"
         drawable="uupurifier" />
-
     <item
         component="ComponentInfo{com.motorola.visualvoicemail/com.motorola.visualvoicemail.ui.VvmMainActivity}"
         drawable="verizonvoicemail" />
-
     <item
         component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}"
         drawable="viber" />
-
+    <!-- <item component="ComponentInfo{}" drawable="videofolder"/> -->
     <item
         component="ComponentInfo{co.vine.android/co.vine.android.StartActivity}"
         drawable="vine" />
-
-    <!--<item
+    <item
         component="ComponentInfo{}"
-        drawable="visualvoicemail" />-->
+        drawable="visualvoicemail" />
     <item
         component="ComponentInfo{org.videolan.vlc.betav7neon/org.videolan.vlc.betav7neon.gui.MainActivity}"
         drawable="vlc" />
-    
+    <!-- <item
+        component="ComponentInfo{}"
+        drawable="vmwareworkstation" /> -->
     <item
         component="ComponentInfo{com.realvnc.viewer.android/com.realvnc.viewer.android.ConnectionChooserActivity}"
         drawable="vnc" />
-
     <item
         component="ComponentInfo{android.androidVNC/android.androidVNC.androidVNC}"
         drawable="vnc" />
-
     <item
         component="ComponentInfo{com.uzumapps.wakelockdetector/com.uzumapps.wakelockdetector.activity.IntroActivity}"
         drawable="wakelocker" />
-
     <item
         component="ComponentInfo{com.mikepenz.unsplash/com.mikepenz.unsplash.activities.MainActivity}"
         drawable="wallsplash" />
-
     <item
         component="ComponentInfo{wp.wattpad/wp.wattpad.ui.activities.LoginActivity}"
         drawable="wattpad" />
-
     <item
         component="ComponentInfo{com.webviewbrowser/main.java.MainActivity}"
         drawable="webviewbrowser" />
-
     <item
         component="ComponentInfo{com.weheartit/com.weheartit.app.MainActivity}"
         drawable="weheartit" />
-
+    <!-- <item component="ComponentInfo{}" drawable="welgbt-inbetween"/> -->
+    <!-- <item component="ComponentInfo{}" drawable="welgbt-notfound"/> -->
+    <!-- <item component="ComponentInfo{}" drawable="welgbt-poor"/> -->
+    <!-- <item component="ComponentInfo{}" drawable="welgbt"/> -->
+    <!-- <item component="ComponentInfo{}" drawable="whatsapp-alt"/> -->
+    <!-- <item component="ComponentInfo{}" drawable="whatsapp-alt2"/> -->
+    <!-- <item component="ComponentInfo{}" drawable="whatsapp-alt3"/> -->
     <item
         component="ComponentInfo{com.whatsapp/com.whatsapp.Main}"
         drawable="whatsapp" />
-
+    <!-- <item component="ComponentInfo{}" drawable="wikipedia-alt"/> -->
     <item
         component="ComponentInfo{org.wikipedia/org.wikipedia.page.PageActivity}"
         drawable="wikipedia" />
-
-   <!-- <item
+    <item
         component="ComponentInfo{}"
-        drawable="wolz" />-->
-
+        drawable="wolz" />
     <item
         component="ComponentInfo{com.wunderkinder.wunderlistandroid/com.wunderkinder.wunderlistandroid.activity.WLMainFragmentActivity}"
         drawable="wunderlist" />
-
     <item
         component="ComponentInfo{com.wunderkinder.wunderlistandroidedu/com.wunderkinder.wunderlistandroid.activity.WLMainFragmentActivity}"
         drawable="wunderlist" />
-
     <!-- <item
         component="ComponentInfo{}"
         drawable="xposedinstaller" /> -->
-
     <item
         component="ComponentInfo{rpkandrodev.yaata/rpkandrodev.yaata.activity.ThreadListActivity}"
         drawable="yaata" />
-
     <item
         component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}"
         drawable="youtube" />
-    
+    <!-- <item component="ComponentInfo{}" drawable="zipfolder"/> -->
 </resources>
