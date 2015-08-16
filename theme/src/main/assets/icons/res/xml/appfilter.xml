@@ -99,8 +99,8 @@
     <item 
         component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="cymera" />
     
-    <item 
-        component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="cymera" />
+    <!--<item
+        component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="cymera" />-->
     
     <item
         component="ComponentInfo{com.cyworld.camera/com.cyworld.cymera.CameraMain}"
@@ -290,8 +290,8 @@
     <item 
         component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}" drawable="music"/>
     
-    <item 
-        component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="music" />
+    <!--<item
+        component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="music" />-->
     
     <item
         component="ComponentInfo{com.musixmatch.android.lyrify/com.designfuture.music.ui.phone.DashBoardActivity}"
