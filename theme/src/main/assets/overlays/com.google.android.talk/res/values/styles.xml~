@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AppCompat.Light" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:navigationBarColor">#ff60bf45</item>
+        <item name="android:colorPrimaryDark">#ff4da235</item>
+        <item name="android:colorPrimary">#ff60bf45</item>
+        <item name="android:colorAccent">#ff60bf45</item>
+
+    </style>
+
+
+    <style name="peoplelistv1HorizontalDividerStyle">
+        <item name="android:background">#00cccccc</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">0dip</item>
+    </style>
+    <style name="Divider">
+        <item name="android:layout_gravity">right</item>
+        <item name="android:background">?android:listDivider</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">0dip</item>
+    </style>
+    <style name="horizontalDividerStyle">
+        <item name="android:background">#ffcccccc</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">0dip</item>
+    </style>
+    <style name="QuickActionsItem">
+        <item name="android:textSize">10.0sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <style name="LastSeenNormalTextStyle">
+    <item name="android:textSize">10.0sp</item>
+    </style>
+</resources>
+    

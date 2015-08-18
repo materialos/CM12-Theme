@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.YouTube.Home" parent="@style/Theme.YouTube.Settings"/>
+    <style name="Theme.YouTube.Settings" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:navigationBarColor">#ffe62117</item>
+
+        <item name="android:colorAccent">#ffe62117</item>
+    </style>
+</resources>
