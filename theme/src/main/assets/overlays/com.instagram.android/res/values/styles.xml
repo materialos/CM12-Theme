@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="InstagramTheme" parent="@style/InstagramBaseTheme">
+    <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    <item name="android:statusBarColor">#ff0277bd</item>
+    <item name="android:navigationBarColor">#ff0277bd</item>
+    <item name="android:colorPrimary">#ff38698e</item>
+    <item name="android:colorPrimaryDark">#ff2e5a7b</item>
+    <item name="android:colorAccent">#ff38698e</item>
+  </style>
+  <style name="InstagramBaseTheme" parent="@android:style/Theme.Material.Light">
+    <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    <item name="android:statusBarColor">#ff0277bd</item>
+    <item name="android:colorPrimary">#ff38698e</item>
+    <item name="android:colorPrimaryDark">#ff2e5a7b</item>
+    <item name="android:colorAccent">#ff38698e</item>
+  </style>
+</resources>
