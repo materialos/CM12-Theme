@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="Theme.Facebook" parent="@android:style/Theme.Material.Light">
+    <item name="android:colorPrimary">#ff3b5998</item>
+    <item name="android:colorPrimaryDark">#ff2c4a89</item>
+    <item name="android:navigationBarColor">#ff3b5998</item>
+    <item name="android:statusBarColor">#ff22407f</item>
+  </style>
+</resources>
