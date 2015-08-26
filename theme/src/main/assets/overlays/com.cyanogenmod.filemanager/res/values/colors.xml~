@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="text_color">#ffffffff</color>
+    <color name="dialog_text_color">#ffffffff</color>
+	
+	<color name="disk_usage_used">#ff222222</color>
+    <color name="dark_disk_usage_used_color">#ff7164ac</color>
+
+
+    <color name="default_background">#ff222222</color>
+    <color name="default_background_disabled">#ff7164ac</color>
+	
+	
+    <color name="material_palette_blue_primary_dark">#ff7164ac</color>
+    <color name="material_palette_blue_1">#ff7164ac</color>
+    <color name="material_palette_blue_2">#ff7164ac</color>
+    <color name="material_palette_blue_3">#ff7164ac</color>
+    <color name="material_palette_blue_4">#ff7164ac</color>
+
+
+    <color name="material_palette_blue_accent_dark">#ff7164ac</color>
+    <color name="material_palette_blue_accent">#ff7164ac</color>
+
+    <color name="actionbar_palette_blue_primary">#ff7164ac</color>
+
+
+    <color name="material_palette_blue_primary">#ff7164ac</color>
+
+
+    <color name="divider_color">#00000000</color>
+    <color name="divider_color_light">#00000000</color>
+
+ 
+ 
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FileManager.Theme.Material.Light.NoActionBar" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:colorPrimaryDark">#ff7d5cea</item>
+        <item name="android:colorPrimary">#ff8461f7</item>
+	    <item name="android:windowBackground">@*common:color/pop_background</item>
+		<item name="android:navigationBarColor">@*common:color/pop_background</item>
+    </style>
+
+
+</resources>
