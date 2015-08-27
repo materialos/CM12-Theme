@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+  <style name="Eleven.Theme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+    <item name="android:colorPrimary">#ee4d4c</item>
+    <item name="android:colorPrimaryDark">#e64544</item>
+    <item name="android:colorAccent">#ee4d4c</item>
+    <item name="android:navigationBarColor">#1a1a1a</item>
+  </style>
+</resources>

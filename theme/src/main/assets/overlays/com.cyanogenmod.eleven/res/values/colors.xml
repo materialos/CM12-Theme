@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="primary">#ee4d4c</color>
+  <color name="primary_dark">#e64544</color>
+  <color name="primary_light">#ee4d4c</color>
+  <color name="accent">#ee4d4c</color>	
+  <color name="tab_selected_text_color">#ffffffff</color>
+  <color name="tab_unselected_text_color">#5a000000</color>
+  <color name="tab_ripple_color">#ffffffff</color>
+  <color name="tab_accent_color">#ffffffff</color>
+  <color name="tab_selected_underline_color">#ffffffff</color>
+  <color name="cardview_light_background">#ffffffff</color>
+  <color name="cardview_dark_background">#ffffffff</color>
+  <color name="cardview_shadow_start_color">#37000000</color>
+  <color name="cardview_shadow_end_color">#03000000</color>
+  <color name="background_color">#fafafa</color>
+  <color name="list_item_background">#fafafa</color>
+  <color name="page_header_background">#fafafa</color>
+  <color name="list_item_divider_color">#00000000</color>
+  <color name="list_item_divider_color_light">#00000000</color>
+  <color name="header_action_bar_color">#ee4d4c</color>
+  <color name="smart_playlist_item_background">#fafafa</color>
+</resources>
+
