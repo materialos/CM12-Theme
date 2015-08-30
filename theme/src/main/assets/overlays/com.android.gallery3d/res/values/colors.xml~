@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#ff353535</color>
+    <color name="primary_dark">#ff303030</color>
+    <color name="accent">#ff353535</color>
+    <color name="material_blue_grey_950">#ff0e0e0e</color>
+    <color name="default_background">#ff0e0e0e</color>
+    <color name="photo_background">#ff0e0e0e</color>
+    <color name="album_background">#ff0e0e0e</color>	
+    <color name="photo_placeholder">#ff0e0e0e</color>
+    <color name="cache_background">#ff0e0e0e</color>
+    <color name="cache_placeholder">#ff0e0e0e</color>
+    <color name="albumset_background">#ff0e0e0e</color>
+    <color name="albumset_placeholder">#ff0e0e0e</color>
+    <color name="albumset_label_background">#ff0e0e0e</color>
+
+
+  
+</resources>
