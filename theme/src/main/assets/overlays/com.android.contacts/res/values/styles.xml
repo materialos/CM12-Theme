@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="PeopleTheme" parent="@android:style/Theme.Material">
+    <item name="android:windowBackground">@*common:color/windowBackground</item>
+    <item name="android:colorPrimaryDark">#0277bd</item>
+    <item name="android:colorPrimary">#0288d1</item>
+    <item name="android:colorAccent">#0288d1</item>
+    <item name="android:navigationBarColor">#0288d1</item>
+  </style>
+</resources>
