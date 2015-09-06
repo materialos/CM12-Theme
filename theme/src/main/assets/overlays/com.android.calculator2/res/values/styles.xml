@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-  <style name="Theme.Calculator" parent="@android:style/Theme.Material.Light">
-    <item name="android:navigationBarColor">#ff424242</item>
-  </style>
-</resources>

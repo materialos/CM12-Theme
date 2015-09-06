@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <color name="theme_main_actionbar_controls_color">#ffffffff</color>
-
+  <color name="theme_main_color_primary">#e21a38</color>
+  <color name="theme_main_color_primary_dark">#c5012b</color>
+  <color name="theme_main_actionbar_controls_color">#ffffffff</color>
 </resources>
