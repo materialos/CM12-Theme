@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="primary_color">#ffe91e63</color>
+  <color name="primary_color_dark">#ffad1457</color>
+  <color name="actionbar_background_color">#ffe91e63</color>
+  <color name="dialer_theme_color">#ffe91e63</color>
+</resources>

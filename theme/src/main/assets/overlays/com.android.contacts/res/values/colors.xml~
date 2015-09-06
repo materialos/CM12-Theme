@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- You are editing Contacts.apk's Colors -->
+<!--LAST REVISED ON: 9:28PM EST 10/02/2015-->
+
+<resources>
+
+
+
+
+    <!-- Please do not copy, this is a Work of Victor Burgoa -->
+
+
+
+
+
+
+    <!--Actionbar Color + Main Tint Colors-->
+    <color name="actionbar_background_color">#ff60bf45</color>
+	<color name="dialer_theme_color">#ff60bf45</color>
+    <color name="dialer_theme_color_dark">#ffff0000</color>
+	<color name="primary_color">#ff60bf45</color>
+	<color name="primary_color_dark">#ff4da235</color>
+</resources>
