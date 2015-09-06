@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <style name="Theme.Facebook" parent="@android:style/Theme.Material.Light">
-    <item name="android:colorPrimary">#ff3b5998</item>
-    <item name="android:colorPrimaryDark">#ff2c4a89</item>
-    <item name="android:navigationBarColor">#ff3b5998</item>
-    <item name="android:statusBarColor">#ff22407f</item>
+    <item name="android:colorPrimary">@color/fb_blue</item>
+    <item name="android:colorPrimaryDark">@color/fbui_facebook_blue</item>
+    <item name="android:statusBarColor">#1976d2</item>
+    <item name="android:colorAccent">#ff2979ff</item>
   </style>
 </resources>
