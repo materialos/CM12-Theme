@@ -4,4 +4,5 @@
   <color name="theme_primary_dark">#1565c0</color>
   <color name="theme_accent">#448aff</color>
   <color name="bg_color">#ffffff</color>
+  <color name="icons_color">#448aff</color>
 </resources>
