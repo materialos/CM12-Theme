@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="black_light">#1b1f23</color>
+  <color name="blues">#282e34</color>
+  <color name="system_primary_color">@color/black_light</color>
+  <color name="system_secondary_color">@color/blues</color>
+  <color name="system_accent_color">#2979ff</color>
+
+  <color name="flat_grey">#ff353e44</color>
+  <color name="flat_accent">#ff3e464c</color>
+
+  <color name="qs_detail_transition">#ff000000</color>
+  <color name="qs_text">#ffffffff</color>
+  <color name="fab_color">#2196f3</color>
+  <color name="floating_action_button_icon_color">#f0f8ff</color>
+</resources>
