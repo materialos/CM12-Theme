@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing SystemUI.apk's Colors-->
+<!--LAST REVISED ON: 9:36PM EST 10/02/2015-->
+
+<resources>
+
+
+
+
+    <!-- Please do not copy, this is a Work of Victor Burgoa -->
+
+
+
+
+    <color name="default_primary_color">#ffffff</color>
+    <color name="ntp_most_visited_bg">#ffffff</color>
+    <color name="primary_material_light">#ffffff</color>
+
+</resources>

@@ -3,4 +3,8 @@
   <color name="primary">#ff009688</color>
   <color name="primary_dark">#ff00796b</color>
   <color name="accent">#00bfa5</color>
+
+  <!--Little tweaks for a cleaner look-->
+  <color name="divider_gray">#00000000</color>
+  <color name="background_material_light">#ffffff</color>
 </resources>
