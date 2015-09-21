@@ -16,9 +16,16 @@
   <color name="background_color">#fafafa</color>
   <color name="list_item_background">#fafafa</color>
   <color name="page_header_background">#fafafa</color>
-  <color name="list_item_divider_color">#00000000</color>
-  <color name="list_item_divider_color_light">#00000000</color>
   <color name="header_action_bar_color">#ee4d4c</color>
   <color name="smart_playlist_item_background">#fafafa</color>
+  <color name="header_action_bar_text_color">#ffffffff</color>
+  <color name="header_shadow_color">#00000000</color>
+  <!--Making some divider colors transparent for a cleaner look-->
+  <color name="list_item_divider_color">#00000000</color>
+  <color name="list_item_divider_color_light">#00000000</color>
+  <color name="menu_divider_color">#00000000</color>
+  <color name="now_playing_divider">#00000000</color>
+  <color name="widget_divider">#00000000</color>
+
 </resources>
 
