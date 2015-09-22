@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="play_music_primary">#ffef6c00</color>
+    <color name="play_music_primary_disabled">#80ef6c00</color>
+    <color name="leanback_search_orb_background_color">#ffef6c00</color>
+
+    <color name="play_card_light_background">#ffffff</color>
+    <color name="app_background_light">#ffffff</color>
+
+    <color name="app_background">#f5f5f5</color>
+    <color name="nowplaying_progressbar_bg">#f5f5f5</color>
+    <color name="leanback_now_playing_bar_color">#f5f5f5</color>
+    <color name="leanback_icon_card_label_text_color">#f5f5f5</color>
+    <color name="leanback_quiz_card_chin_text_color">#f5f5f5</color>
+    <color name="leanback_try_nautilus_card_title_text_color">#f5f5f5</color>
+    <color name="play_main_background">#f5f5f5</color>
+    <color name="lb_details_description_color">#f5f5f5</color>
+    <color name="background_material_light">#f5f5f5</color>
+    <color name="background_floating_material_light">#f5f5f5</color>
+
+</resources>
