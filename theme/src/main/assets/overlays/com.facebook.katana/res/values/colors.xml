@@ -5,6 +5,8 @@
   <color name="fbui_bluegrey_30_40a">#ff2196f3</color>
   <color name="feed_story_subtitle_text_color">#ff2196f3</color>
   <color name="feed_feedback_stacked_text_color">#ff2196f3</color>
+  <color name="publisher_sprout_background">#eeeeee</color>
+  <color name="fbui_bluegrey_10">#eeeeee</color>
 
   <color name="rap_dark_blue">#1e88e5</color> 
   <color name="fbui_facebook_blue">#1e88e5</color>
