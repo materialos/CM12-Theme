@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <color name="system_primary_color">#7344bc</color>
-  <color name="system_secondary_color">#6833b6</color>
-  <color name="system_accent_color">#e95c92</color>
-  <color name="qs_detail_transition">#e95c92</color>
-  <color name="qs_text">#ffffffff</color>
+  <color name="system_primary_color">#282d33</color><!--Notification QS Background-->
+  <color name="system_secondary_color">#343a43</color><!--Notification header-->
+  <color name="system_accent_color">#448aff</color>
+  <color name="qs_detail_transition">#202428</color>
+ 
+  <color name="qs_text">#eeeeee</color>
+  <color name="qs_tile_text">#eeeeee</color>
+  <color name="qs_tile_divider">#00000000</color>
+  <color name="qs_detail_empty">#eeeeee</color>
+
+  <color name="brightness_thumb">#eeeeee</color>
   <color name="fab_color">#e95c92</color>
   <color name="floating_action_button_icon_color">#e95c92</color>
 </resources>
