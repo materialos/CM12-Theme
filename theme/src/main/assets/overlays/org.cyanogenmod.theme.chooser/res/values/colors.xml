@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <color name="primary">#7b1fa2</color>
-  <color name="primary_dark">#6a1b9a</color>
-  <color name="author_grey">#7b1fa2</color> <!--Apply banner-->
-  <color name="accent">#aa00ff</color>
+  <color name="primary">#d81b60</color>
+  <color name="primary_dark">#c2185b</color>
+  <color name="author_grey">#c2185b</color> <!--Apply banner -->
+  <color name="accent">#e64683</color>
 
-  <color name="apply_button_progress_color">#6a1b9a</color>
-  <color name="apply_button_default_color">#7b1fa2</color>
-  <color name="apply_button_pressed_color">#6a1b9a</color>
+  <color name="apply_button_progress_color">#800e4f</color>
+  <color name="apply_button_default_color">#c2185b</color>
+  <color name="apply_button_pressed_color">#800e4f</color>
 
-  <color name="drawer_item_default">#7b1fa2</color>
-  <color name="drawer_item_pressed">#6a1b9a</color>
+  <color name="drawer_item_default">#d81b60</color>
+  <color name="drawer_item_pressed">#c2185b</color>
   <color name="drawer_divider_line">#00000000</color> 
   
   <color name="primary_text_color">#ff000000</color>
