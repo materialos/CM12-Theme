@@ -25,4 +25,9 @@
   <color name="friend_review_card_read_full_review_color">#34a853</color>
   <color name="status_bar_apps">#34a853</color>
 
+  <!--For play music-->
+  <color name="play_music_primary">#ff5722</color>
+  <color name="play_music_primary_disabled">#80ff5722</color>
+  <color name="play_music_secondary">#ff5722</color>
+  <color name="status_bar_music">#ff5722</color>
 </resources>
