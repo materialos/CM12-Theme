@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="action_bar_background">#f44336</color>
+  <color name="status_bar_background">#d32f2f</color>
+  <color name="quantum_googred500">#ffc107</color>
+  <color name="quantum_googred700">#ffc107</color>
+</resources>
