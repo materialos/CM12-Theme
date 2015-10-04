@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <color name="key_background_lxx_light">#fafafa</color>
+  <color name="key_background_lxx_dark">#212121</color>
+  <color name="gesture_trail_color_lxx_dark">#ff4081</color>
+  <color name="highlight_color_lxx_dark">#ff4081</color>
+  <color name="gesture_trail_color_lxx_light">#448aff</color>
+  <color name="highlight_color_lxx_light">#448aff</color>
+  <color name="theme_primary">#448aff</color>
+  <color name="theme_primary_dark">#ff4081</color>
+</resources>
