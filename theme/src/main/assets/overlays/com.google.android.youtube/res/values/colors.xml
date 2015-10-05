@@ -3,5 +3,5 @@
   <color name="red">#d32f2f</color>
   <color name="theme_main_color_primary">@color/red</color>
   <color name="color_primary">@color/red</color>
-  <color name="theme_main_color_primary_dark">#c62828</color>
+  <color name="theme_main_color_primary_dark">#b71c1c</color>
 </resources>
