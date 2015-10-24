@@ -4,6 +4,7 @@
     <item name="android:colorAccent">@color/theme_accent</item>
     <item name="android:colorPrimary">@color/theme_primary</item>
     <item name="android:colorPrimaryDark">@color/theme_primary_dark</item>
+    <item name="android:navigationBarColor">#1565c0</item>
   </style>
   <style name="Theme.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar.Solid">
     <item name="android:elevation">0dp</item>
