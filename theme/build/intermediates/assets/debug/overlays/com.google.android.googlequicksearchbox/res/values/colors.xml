@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="card_bg">#ffffff</color>
+    <color name="card_bg_training">#ffffff</color>
+    <color name="card_background">#ffffff</color>
+    <color name="activity_background">#fafafa</color>
+</resources>

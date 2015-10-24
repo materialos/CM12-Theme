@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="default_background">#ffffffff</color>
+
+  <color name="dark_disk_usage_used_color">#ffe91e63</color>
+
+  <color name="actionbar_palette_blue_primary">#ff3f51b5</color>
+  <color name="material_palette_blue_primary">#ffff4081</color>
+  <color name="material_palette_blue_primary_dark">#ff303f9f</color>
+  <color name="material_palette_blue_1">#ff3f51b5</color>
+  <color name="material_palette_blue_2">#ff3f51b5</color>
+  <color name="material_palette_blue_3">#ff3f51b5</color>
+  <color name="material_palette_blue_4">#ff3f51b5</color>
+
+  <color name="material_palette_blue_accent_dark">#ffff4081</color>
+  <color name="material_palette_blue_accent">#ffff4081</color>
+
+  <color name="divider_color">#00000000</color>
+  <color name="divider_color_light">#00000000</color>
+</resources>

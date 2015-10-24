@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <item type="drawable" name="bg_material_titlebar">#ff3f51b5</item>
+  <item type="drawable" name="bg_material_statusbar">#ff3f51b5</item>
+
+  <item type="drawable" name="divider_vertical_bright_opaque">#00000000</item>
+  <item type="drawable" name="divider_horizontal_bright_opaque">#00000000</item>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="theme_primary">#1976d2</color>
+  <color name="theme_primary_dark">#1565c0</color>
+  <color name="theme_accent">#448aff</color>
+  <color name="dashboard_category_background_color">@drawable/dashboard_category_background</color>
+  <color name="dashboard_background_color">@drawable/dashboard_background</color>
+  <color name="icons_color">#448aff</color>
+  <color name="switchbar_background_color">#42a5f5</color>
+  <color name="switch_accent_color">#FFFFFF</color>
+  <color name="theme_dash_icons">@color/theme_accent</color>
+  <color name="running_processes_apps_ram">#1976d2</color>
+</resources>

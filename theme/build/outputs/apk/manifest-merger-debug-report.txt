@@ -1,0 +1,57 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:18:1
+	package
+		ADDED from AndroidManifest.xml:19:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:18:11
+	android:versionCode
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-feature#org.cyanogenmod.theme
+ADDED from AndroidManifest.xml:21:5
+	android:required
+		ADDED from AndroidManifest.xml:21:19
+	android:name
+		ADDED from AndroidManifest.xml:21:43
+uses-sdk
+ADDED from AndroidManifest.xml:23:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:23:42
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:23:15
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+meta-data#org.cyanogenmod.theme.name
+ADDED from AndroidManifest.xml:25:5
+	android:value
+		ADDED from AndroidManifest.xml:25:58
+	android:name
+		ADDED from AndroidManifest.xml:25:16
+meta-data#org.cyanogenmod.theme.author
+ADDED from AndroidManifest.xml:26:5
+	android:value
+		ADDED from AndroidManifest.xml:26:60
+	android:name
+		ADDED from AndroidManifest.xml:26:16
+meta-data#org.cyanogenmod.theme.email
+ADDED from AndroidManifest.xml:27:5
+	android:value
+		ADDED from AndroidManifest.xml:27:59
+	android:name
+		ADDED from AndroidManifest.xml:27:16
+application
+ADDED from AndroidManifest.xml:29:5
+	android:hasCode
+		ADDED from AndroidManifest.xml:29:18
+	android:label
+		ADDED from AndroidManifest.xml:31:9
+	android:icon
+		ADDED from AndroidManifest.xml:30:9

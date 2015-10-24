@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--Action bars-->
+  <drawable name="ab_solid">#ff4caf50</drawable>
+  <color name="primary">#ff4caf50</color>
+  <color name="primary_dark">#ff388e3c</color>
+  <color name="settings_action_bar_background_color">#ff4caf50</color>
+  <color name="action_bar_background_color">#ff4caf50</color>
+  <color name="action_bar_selected_button_text_color">#ffffffff</color>
+  <color name="action_bar_unselected_button_text_color">#90ffffff</color>
+
+  <!--Backgrounds-->
+  <color name="attachment_name_background_color">#ff212121</color>
+  <color name="background_material_dark">#ff424242</color>
+  <color name="background_material_light">#fffafafa</color>
+  <color name="pressed_bg">#6766bb6a</color>
+  <color name="focused_bg">#4d66bb6a</color>
+  <color name="bg_item_activated">#674caf50</color>
+  <color name="bg_item_selected">#cc4caf50</color>
+  <color name="bg_item_pressed">#674caf50</color>
+
+  <!--Some transparency for a cleaner look-->
+  <drawable name="abc_list_divider_holo_dark">#00000000</drawable>
+  <drawable name="abc_list_divider_holo_light">#00000000</drawable>
+  <drawable name="divider">#00000000</drawable>
+  <color name="hangout_avatar_border">#00000000</color>
+
+  <!--Ripples-->
+  <color name="ripple_mtrl_dark">#a34caf50</color>
+  <color name="ripple_mtrl_light">#a34caf50</color>
+  
+  <!--Dialpad-->
+  <color name="dialpad_primary_text_color">#ff4caf50</color>
+  <color name="dialpad_secondary_text_color">#ff212121</color>
+  <color name="dialpad_digits_text_color">#ff4caf50</color>
+  <color name="dialpad_separator_line_color">#00000000</color>
+  <color name="dialpad_calling_rates_text_color">#ffffffff</color>
+  <color name="dialpad_calling_rates_text_highlight_color">#ff4caf50</color>
+  <color name="background_dialpad">#ffffffff</color>
+  <color name="background_dialpad_pressed">#70388e3c</color>
+ 
+  <!--Texts,etc-->
+  <color name="realtimechat_message_text">#ff424242</color>
+  <color name="realtimechat_message_timestamp">#c4505050</color>
+  <color name="realtimechat_message_text_otr">#fffafafa</color>
+  <color name="realtimechat_message_timestamp_otr">#c4505050</color>
+  <color name="realtimechat_message_textlink">#ff2196f3</color>
+  <color name="prim_txt_mtrl_light">#ff3b3b3b</color>
+  <color name="prim_txt_mtrl_dark">#ffffffff</color>
+  <color name="sec_txt_mtrl_light">#50000000</color>
+  <color name="sec_txt_mtrl_dark">#50ffffff</color>
+
+  <!--Colors?suprised?,google apps are hard to theme-->
+  <color name="quantum_googgreen500">#ff00c853</color>
+ </resources>

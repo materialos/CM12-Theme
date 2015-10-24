@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--For the cards-->
+  <color name="play_card_light_background">#ffffffff</color>     
+  <color name="play_card_shadow_end_color">#00000000</color>
+  <color name="play_card_shadow_start_color">#00000000</color>
+
+  <!--Making the background a little lighter-->
+  <color name="play_main_background">#fafafa</color>
+  <color name="background_floating_material_light">#fafafa</color>
+  <color name="background_material_light">#fafafa</color>
+  
+  <!--For play books-->
+  <color name="play_books_primary">#795548</color>
+  <color name="play_books_primary_disabled">#80795548</color>
+  <color name="play_books_secondary">#795548</color>
+  <color name="status_bar_books">#795548</color>
+  <color name="play_books_recents">#795548</color>
+
+  <!--For play apps & games, color from new google logo -->
+  <color name="play_apps_primary">#34a853</color>
+  <color name="play_apps_primary_disabled">#8034a853</color>
+  <color name="play_apps_secondary">#34a853</color>
+  <color name="play_drawer_mini_profile_background">#34a853</color>
+  <color name="friend_review_card_read_full_review_color">#34a853</color>
+  <color name="status_bar_apps">#34a853</color>
+
+  <!--For play music-->
+  <color name="play_music_primary">#ff5722</color>
+  <color name="play_music_primary_disabled">#80ff5722</color>
+  <color name="play_music_secondary">#ff5722</color>
+  <color name="status_bar_music">#ff5722</color>
+</resources>

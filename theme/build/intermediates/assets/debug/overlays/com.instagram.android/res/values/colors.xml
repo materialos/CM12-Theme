@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="status_bar_blue_background">#0277bd</color>
+  <color name="accent_blue_5">#0277bd</color>
+  <color name="blue_5">#0277bd</color>
+  <color name="grey_3">#0277bd</color>
+  <color name="white">#ffffffff</color>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="fb_blue">#ff2196f3</color>
+  <color name="facebook_blue_twenty_percent_opacity">#ff2196f3</color>
+  <color name="fbui_bluegrey_30_40a">#ff2196f3</color>
+  <color name="feed_story_subtitle_text_color">#ff2196f3</color>
+  <color name="feed_feedback_stacked_text_color">#ff2196f3</color>
+  <color name="publisher_sprout_background">#eeeeee</color>
+  <color name="fbui_bluegrey_10">#eeeeee</color>
+
+  <color name="rap_dark_blue">#1e88e5</color> 
+  <color name="fbui_facebook_blue">#1e88e5</color>
+  <color name="fbui_facebook_blue_f0">#1e88e5</color>
+
+  <!--Making a lot of dividers transparent for a cleaner look-->
+  <color name="feed_app_ad_cta_divider_color">#00000000</color>
+  <color name="feed_feedback_action_button_bar_divider_color">#00000000</color>
+  <color name="feed_feedback_divider_color">#00000000</color>
+  <color name="feed_flyout_divider_color">#00000000</color>
+  <color name="feed_hidden_story_divider_color">#00000000</color>
+  <color name="feed_hidden_story_divider_color_dark">#00000000</color>
+  <color name="feed_sort_divider_color">#00000000</color>
+  <color name="feed_story_attachment_feedback_divider_color">#00000000</color>
+  <color name="feed_story_secondary_actions_menu_divider">#00000000</color>
+  <color name="feed_subattachment_divider_color">#00000000</color>
+  <color name="feed_substory_divider_color">#00000000</color>
+  <color name="divebar_contact_divider">#00000000</color>
+  <color name="chat_thread_view_divider">#00000000</color>
+  <color name="publisher_vertical_divider">#00000000</color>
+  <color name="share_launcher_divider">#00000000</color>
+  <color name="rap_divider_color">#00000000</color>
+  <color name="publisher_vertical_divider_harrison">#00000000</color>
+  <color name="publisher_vertical_divider_caspian">#00000000</color>
+  <color name="camera_borders_and_dividers">#00000000</color>
+  <color name="ufiservices_flyout_divider_color">#00000000</color>
+  <color name="secondary_tab_vertical_divider">#00000000</color>
+  <color name="commenter_divider">#00000000</color>
+  <color name="permalink_divider">#00000000</color>
+  <color name="pymk_feed_unit_divider_color">#00000000</color>
+  <color name="control_title_bar_primary_named_button_divider">#00000000</color>
+  <color name="orca_neue_banner_divider">#00000000</color>
+  <color name="rtc_action_bar_divider">#00000000</color>
+  <color name="fbui_graph_search_search_box_offline_bg">#00000000</color>
+</resources>
