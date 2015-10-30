@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <style name="Theme.MinimumReqs" parent="@android:style/Theme.Material.Light">
+    <item name="android:statusBarColor">#ff1976d2</item>
+    <item name="android:colorPrimary">#ff2196f3</item>
+    <item name="android:colorPrimaryDark">#ff1976d2</item>
+    <item name="android:colorAccent">#ff2979ff</item>
+    <item name="android:textColor">#ff212121</item>
+    <item name="android:textColorPrimary">#ff424242</item>
+    <item name="android:textColorSecondary">#ff424242</item>
+    <item name="android:textColorTertiary">#ff424242</item>
+  </style>
+  
+  <style name="Theme.FBUi" parent="@android:style/Theme.Material.Light">
+    <item name="android:statusBarColor">#ff1976d2</item>
+    <item name="android:colorPrimary">#ff2196f3</item>
+    <item name="android:colorPrimaryDark">#ff1976d2</item>
+    <item name="android:colorAccent">#ff2979ff</item>
+    <item name="android:textColor">#ff212121</item>
+    <item name="android:textColorPrimary">#ff424242</item>
+    <item name="android:textColorSecondary">#ff424242</item>
+    <item name="android:textColorTertiary">#ff424242</item>
+  </style>
+    
+  <style name="Theme.FBUi.Overlay" parent="@android:style/Theme.Material.Light">
+    <item name="android:statusBarColor">#ff1976d2</item>
+    <item name="android:colorPrimary">#ff2196f3</item>
+    <item name="android:colorPrimaryDark">#ff1976d2</item>
+    <item name="android:colorAccent">#ff2979ff</item>
+    <item name="android:textColor">#ff212121</item>
+    <item name="android:textColorPrimary">#ff424242</item>
+    <item name="android:textColorSecondary">#ff424242</item>
+    <item name="android:textColorTertiary">#ff424242</item>
+  </style>
+   
+  <style name="HomeActivityBaseTheme" parent="@android:style/Theme.Material.Light">
+    <item name="android:statusBarColor">#ff1976d2</item>
+    <item name="android:colorPrimary">#ff2196f3</item>
+    <item name="android:colorPrimaryDark">#ff1976d2</item>
+    <item name="android:colorAccent">#ff2979ff</item>
+    <item name="android:textColor">#ff212121</item>
+    <item name="android:textColorPrimary">#ff424242</item>
+    <item name="android:textColorSecondary">#ff424242</item>
+    <item name="android:textColorTertiary">#ff424242</item>
+  </style>
+   
+  <style name="HomeActivityTheme" parent="@android:style/Theme.Material.Light">
+    <item name="android:statusBarColor">#ff1976d2</item>
+    <item name="android:colorPrimary">#ff2196f3</item>
+    <item name="android:colorPrimaryDark">#ff1976d2</item>
+    <item name="android:colorAccent">#ff2979ff</item>
+    <item name="android:textColor">#ff212121</item>
+    <item name="android:textColorPrimary">#ff424242</item>
+    <item name="android:textColorSecondary">#ff424242</item>
+    <item name="android:textColorTertiary">#ff424242</item>
+  </style>
+   
+
+  <style name="HomeActivityThemeV2" parent="@android:style/Theme.Material.Light">
+    <item name="android:statusBarColor">#ff1976d2</item>
+    <item name="android:colorPrimary">#ff2196f3</item>
+    <item name="android:colorPrimaryDark">#ff1976d2</item>
+    <item name="android:colorAccent">#ff2979ff</item>
+    <item name="android:textColor">#ff212121</item>
+    <item name="android:textColorPrimary">#ff424242</item>
+    <item name="android:textColorSecondary">#ff424242</item>
+    <item name="android:textColorTertiary">#ff424242</item>
+  </style>
+    
+
+  <style name="Theme.Caspian" parent="@android:style/Theme.Material.Light">
+     <item name="android:statusBarColor">#ff1976d2</item>
+    <item name="android:colorPrimary">#ff2196f3</item>
+    <item name="android:colorPrimaryDark">#ff1976d2</item>
+    <item name="android:colorAccent">#ff2979ff</item>
+    <item name="android:textColor">#ff212121</item>
+    <item name="android:textColorPrimary">#ff424242</item>
+    <item name="android:textColorSecondary">#ff424242</item>
+    <item name="android:textColorTertiary">#ff424242</item>
+  </style>
+
+</resources>
