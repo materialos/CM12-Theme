@@ -25,7 +25,7 @@ If your interested in helping out or would like to report a bug, [raise an issue
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Material Design Iconography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/materialos/Icons" property="cc:attributionName" rel="cc:attributionURL">the MOS Contributors</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ### Credits:
-- [Material Design System Icons from Google](https://github.com/google/material-design-icons)(CC-BY 4.0)
+- [Material Design System Icons from Google](https://github.com/google/material-design-icons) (CC-BY 4.0)
 - [Official CM 12.1 Theme Template](https://github.com/cyngn/android_packages_themes_Template)
 - [Material Design Icons Colors by @greenraccoon23](https://github.com/GreenRaccoon23/material-design-icons-colors)
 
