@@ -6,6 +6,14 @@
 
 [materialos/CM12-Theme](https://github.com/materialos/CM12-Theme) is a Material Design Cyanogenmod 12/12.1 theme.
 
+### Google Play:
+<a href="https://play.google.com/store/apps/details?id=com.materialos.cm.theme">
+  <img alt="Get it on Google Play"
+       src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
+</a>
+### Cyanogen Theme Store:
+Coming soon.
+
 
 ## Suggestions and Contributing:
 
