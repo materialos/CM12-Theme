@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <color name="red">#d32f2f</color>
+  <color name="red">#ed3b3b</color>
   <color name="theme_main_color_primary">@color/red</color>
+  <color name="theme_main_color_primary_dark">#be2f2f</color>
   <color name="color_primary">@color/red</color>
-  <color name="theme_main_color_primary_dark">#b71c1c</color>
 </resources>
