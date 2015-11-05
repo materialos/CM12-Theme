@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <dimen name="actionbar_contentInsetStart">16dp</dimen>
-  <dimen name="actionbar_subsettings_contentInsetStart">28dp</dimen>
   <dimen name="dashboard_category_title_height">48dp</dimen>
   <dimen name="dashboard_category_elevation">4dp</dimen>
   <dimen name="dashboard_category_padding_start">12dp</dimen>
   <dimen name="dashboard_category_padding_end">12dp</dimen>
+  <dimen name="actionbar_contentInsetStart">16dp</dimen>
+  <dimen name="actionbar_subsettings_contentInsetStart">28dp</dimen>
 </resources>
