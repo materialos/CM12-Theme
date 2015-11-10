@@ -16,7 +16,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.materialos.cm_theme">
+    package="com.materialos.cm.theme">
 
     <uses-feature android:required="true" android:name="org.cyanogenmod.theme" />
 
