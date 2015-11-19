@@ -14,6 +14,32 @@
 ### Cyanogen Theme Store:
 Coming soon.
 
+## What's Themed:
+1. CM Browser
+2. Calculator
+3. CM Camera
+4. Chrome
+5. Contacts
+6. DocumentsUI
+7. CM Gallery
+8. AOSP Keyboard
+9. Google Keyboard
+10. Settings
+11. SystemUI
+12. PlayStore
+13. CM Music Player (Eleven)
+14. CM File Manager
+15. Facebook
+16. CM Updater
+17. Google Plus
+18. Google Play Music
+19. Hangouts
+20. Youtube
+21. Instagram
+22. WhatsApp
+23. CM AudioFX
+24. Theme Chooser
+
 
 ## Suggestions and Contributing:
 
@@ -23,6 +49,53 @@ If your interested in helping out or would like to report a bug, [raise an issue
 * [Google+ Community](https://goo.gl/Au99fM)
 * [Twittter](https://twitter.com/materialos)
 * [MaterialUp](http://www.materialup.com/materialos)
+
+## Contributors:
+**CM Theme Project Leader:**
+- Anurag Kumar
+
+**CM Theme Designers:**
+- Anurag Kumar
+- Nils Urbanus
+- Porasjeet Singh
+
+**Wallpaper Creators:**
+- Anas Khan
+- Jonah Kallen
+- Nils Urbanus
+
+**Project Leaders:**
+Daniel Hickman and Corbin Crutchley
+
+**Other Contributors:**
+- Alex Mueller (Lollydrop)
+- Anas Khan
+- Anjo Cerdeña
+- Brian Medina
+- Christopher Bravata
+- Corbin Crutchley (crutchcorn)
+- Createme
+- Daniel Ciao (plusCubed)
+- Daniel Hickman
+- Eduardo Pratti (KMZ Icons)
+- Gabriele Musco
+- Gabriel Zegarra (Gaigzean)
+- Greg Ives (Grives)
+- Jahir Fiquitiva
+- Jireh Mark Morilla
+- Labib Muhammad
+- Michael Cook (Cookicons)
+- Niko Pennanen
+- Oscar E
+- Patryk Goworowski
+- Pedro Peguero Jr.
+- Pierre Jacquier
+- Rahul Arvind
+- Sajid Shaik
+- Sky Konig
+- Vukasin Andelkovic
+- Wayne Kosimoto
+- Zachary Pierson (zangent)
 
 ## License:
 
