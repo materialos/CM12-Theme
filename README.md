@@ -1,4 +1,4 @@
-# CM12 Theme
+﻿# CM12 Theme
 
 ![2015-10-22](https://cloud.githubusercontent.com/assets/5341898/10843986/9a040556-7eb9-11e5-82d0-1a8dd7e2bf7f.png)
 
@@ -96,6 +96,11 @@ Daniel Hickman and Corbin Crutchley
 - Vukasin Andelkovic
 - Wayne Kosimoto
 - Zachary Pierson (zangent)
+
+**CM Theme Contributors:**
+- Andrew Neth
+- Kyle Simmons
+
 
 ## License:
 
