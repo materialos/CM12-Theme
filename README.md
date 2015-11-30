@@ -12,7 +12,7 @@
        src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
 </a>
 ### Cyanogen Theme Store:
-Coming soon.
+Search for MaterialOS in the theme store and there you have it!
 
 ## What's Themed:
 1. CM Browser

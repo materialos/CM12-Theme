@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_light_blue_800">#6D4C41</color>
+    <color name="material_light_blue_600">#795548</color>
+	<color name="books_corpora_accent">#ff795548</color>
+	<color name="books_corpora_primary_66pc">#aa795548</color>
+    <color name="books_corpora_primary_60pc">#99795548</color>
+    <color name="books_corpora_primary_50pc">#80795548</color>
+    <color name="books_corpora_primary_40pc">#66795548</color>
+    <color name="books_corpora_primary_20pc">#33795548</color>
+</resources>
