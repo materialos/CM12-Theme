@@ -1,83 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-  <style name="Theme.MinimumReqs" parent="@android:style/Theme.Material.Light">
-    <item name="android:statusBarColor">#ff1976d2</item>
-    <item name="android:colorPrimary">#ff2196f3</item>
-    <item name="android:colorPrimaryDark">#ff1976d2</item>
-    <item name="android:colorAccent">#ff2979ff</item>
-    <item name="android:textColor">#ff212121</item>
-    <item name="android:textColorPrimary">#ff424242</item>
-    <item name="android:textColorSecondary">#ff424242</item>
-    <item name="android:textColorTertiary">#ff424242</item>
-  </style>
-  
-  <style name="Theme.FBUi" parent="@android:style/Theme.Material.Light">
-    <item name="android:statusBarColor">#ff1976d2</item>
-    <item name="android:colorPrimary">#ff2196f3</item>
-    <item name="android:colorPrimaryDark">#ff1976d2</item>
-    <item name="android:colorAccent">#ff2979ff</item>
-    <item name="android:textColor">#ff212121</item>
-    <item name="android:textColorPrimary">#ff424242</item>
-    <item name="android:textColorSecondary">#ff424242</item>
-    <item name="android:textColorTertiary">#ff424242</item>
-  </style>
-    
-  <style name="Theme.FBUi.Overlay" parent="@android:style/Theme.Material.Light">
-    <item name="android:statusBarColor">#ff1976d2</item>
-    <item name="android:colorPrimary">#ff2196f3</item>
-    <item name="android:colorPrimaryDark">#ff1976d2</item>
-    <item name="android:colorAccent">#ff2979ff</item>
-    <item name="android:textColor">#ff212121</item>
-    <item name="android:textColorPrimary">#ff424242</item>
-    <item name="android:textColorSecondary">#ff424242</item>
-    <item name="android:textColorTertiary">#ff424242</item>
-  </style>
-   
-  <style name="HomeActivityBaseTheme" parent="@android:style/Theme.Material.Light">
-    <item name="android:statusBarColor">#ff1976d2</item>
-    <item name="android:colorPrimary">#ff2196f3</item>
-    <item name="android:colorPrimaryDark">#ff1976d2</item>
-    <item name="android:colorAccent">#ff2979ff</item>
-    <item name="android:textColor">#ff212121</item>
-    <item name="android:textColorPrimary">#ff424242</item>
-    <item name="android:textColorSecondary">#ff424242</item>
-    <item name="android:textColorTertiary">#ff424242</item>
-  </style>
-   
-  <style name="HomeActivityTheme" parent="@android:style/Theme.Material.Light">
-    <item name="android:statusBarColor">#ff1976d2</item>
-    <item name="android:colorPrimary">#ff2196f3</item>
-    <item name="android:colorPrimaryDark">#ff1976d2</item>
-    <item name="android:colorAccent">#ff2979ff</item>
-    <item name="android:textColor">#ff212121</item>
-    <item name="android:textColorPrimary">#ff424242</item>
-    <item name="android:textColorSecondary">#ff424242</item>
-    <item name="android:textColorTertiary">#ff424242</item>
-  </style>
-   
+    <style name="Theme.MinimumReqs" parent="@android:style/Theme.Material.Light">
+        <item name="android:statusBarColor">@color/theme_primary_dark</item>
+        <item name="android:colorPrimary">@color/theme_primary</item>
+        <item name="android:colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="android:colorAccent">@color/theme_accent</item>
+        <item name="android:textColor">#de000000</item>
+        <item name="android:textColorPrimary">#de000000</item>
+        <item name="android:textColorSecondary">#8a000000</item>
+        <item name="android:textColorTertiary">#8a000000</item>
+    </style>
 
-  <style name="HomeActivityThemeV2" parent="@android:style/Theme.Material.Light">
-    <item name="android:statusBarColor">#ff1976d2</item>
-    <item name="android:colorPrimary">#ff2196f3</item>
-    <item name="android:colorPrimaryDark">#ff1976d2</item>
-    <item name="android:colorAccent">#ff2979ff</item>
-    <item name="android:textColor">#ff212121</item>
-    <item name="android:textColorPrimary">#ff424242</item>
-    <item name="android:textColorSecondary">#ff424242</item>
-    <item name="android:textColorTertiary">#ff424242</item>
-  </style>
-    
+    <style name="Theme.FBUi" parent="@android:style/Theme.Material.Light">
+        <item name="android:statusBarColor">@color/theme_primary_dark</item>
+        <item name="android:colorPrimary">@color/theme_primary</item>
+        <item name="android:colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="android:colorAccent">@color/theme_accent</item>
+        <item name="android:textColor">#de000000</item>
+        <item name="android:textColorPrimary">#de000000</item>
+        <item name="android:textColorSecondary">#8a000000</item>
+        <item name="android:textColorTertiary">#8a000000</item>
+    </style>
 
-  <style name="Theme.Caspian" parent="@android:style/Theme.Material.Light">
-     <item name="android:statusBarColor">#ff1976d2</item>
-    <item name="android:colorPrimary">#ff2196f3</item>
-    <item name="android:colorPrimaryDark">#ff1976d2</item>
-    <item name="android:colorAccent">#ff2979ff</item>
-    <item name="android:textColor">#ff212121</item>
-    <item name="android:textColorPrimary">#ff424242</item>
-    <item name="android:textColorSecondary">#ff424242</item>
-    <item name="android:textColorTertiary">#ff424242</item>
-  </style>
+    <style name="Theme.FBUi.Overlay" parent="@android:style/Theme.Material.Light">
+        <item name="android:statusBarColor">@color/theme_primary_dark</item>
+        <item name="android:colorPrimary">@color/theme_primary</item>
+        <item name="android:colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="android:colorAccent">@color/theme_accent</item>
+        <item name="android:textColor">#de000000</item>
+        <item name="android:textColorPrimary">#de000000</item>
+        <item name="android:textColorSecondary">#8a000000</item>
+        <item name="android:textColorTertiary">#8a000000</item>
+    </style>
+
+    <style name="HomeActivityBaseTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:statusBarColor">@color/theme_primary_dark</item>
+        <item name="android:colorPrimary">@color/theme_primary</item>
+        <item name="android:colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="android:colorAccent">@color/theme_accent</item>
+        <item name="android:textColor">#de000000</item>
+        <item name="android:textColorPrimary">#de000000</item>
+        <item name="android:textColorSecondary">#8a000000</item>
+        <item name="android:textColorTertiary">#8a000000</item>
+    </style>
+
+    <style name="HomeActivityTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:statusBarColor">@color/theme_primary_dark</item>
+        <item name="android:colorPrimary">@color/theme_primary</item>
+        <item name="android:colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="android:colorAccent">@color/theme_accent</item>
+        <item name="android:textColor">#de000000</item>
+        <item name="android:textColorPrimary">#de000000</item>
+        <item name="android:textColorSecondary">#8a000000</item>
+        <item name="android:textColorTertiary">#8a000000</item>
+    </style>
+
+    <style name="HomeActivityThemeV2" parent="@android:style/Theme.Material.Light">
+        <item name="android:statusBarColor">@color/theme_primary_dark</item>
+        <item name="android:colorPrimary">@color/theme_primary</item>
+        <item name="android:colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="android:colorAccent">@color/theme_accent</item>
+        <item name="android:textColor">#de000000</item>
+        <item name="android:textColorPrimary">#de000000</item>
+        <item name="android:textColorSecondary">#8a000000</item>
+        <item name="android:textColorTertiary">#8a000000</item>
+    </style>
+
+    <style name="Theme.Caspian" parent="@android:style/Theme.Material.Light">
+        <item name="android:statusBarColor">@color/theme_primary_dark</item>
+        <item name="android:colorPrimary">@color/theme_primary</item>
+        <item name="android:colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="android:colorAccent">@color/theme_accent</item>
+        <item name="android:textColor">#de000000</item>
+        <item name="android:textColorPrimary">#de000000</item>
+        <item name="android:textColorSecondary">#8a000000</item>
+        <item name="android:textColorTertiary">#8a000000</item>
+    </style>
+
+    <style name="Theme.FBUi.LoginBase" parent="@style/Theme.FBUi">
+        <item name="android:statusBarColor">@color/theme_primary_dark</item>
+        <item name="android:colorPrimary">@color/theme_primary</item>
+        <item name="android:colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="android:colorAccent">@color/theme_accent</item>
+    </style>
+
+    <style name="Theme.Facebook" parent="@style/Theme.FBUi">
+        <item name="android:statusBarColor">@color/theme_primary_dark</item>
+        <item name="android:colorPrimary">@color/theme_primary</item>
+        <item name="android:colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="android:colorAccent">@color/theme_accent</item>
+        <item name="android:textColor">#de000000</item>
+        <item name="android:textColorPrimary">#de000000</item>
+        <item name="android:textColorSecondary">#8a000000</item>
+        <item name="android:textColorTertiary">#8a000000</item>
+    </style>
+
+    <style name="Theme.FacebookDark" parent="@android:style/Theme.Holo">
+        <item name="android:statusBarColor">@color/theme_primary_dark</item>
+        <item name="android:colorPrimary">@color/theme_primary</item>
+        <item name="android:colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="android:colorAccent">@color/theme_accent</item>
+    </style>
+
+    <style name="LogoutTextStyle">
+        <item name="android:textSize">@dimen/fbui_text_size_small</item>
+        <item name="android:textColor">#46ffffff</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
 
 </resources>
