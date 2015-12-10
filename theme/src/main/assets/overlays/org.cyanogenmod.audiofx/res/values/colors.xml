@@ -13,5 +13,5 @@
   <color name="highlight">#ffd500f9</color>
   <color name="lowlight">#ff6200ea</color>
   <color name="black">#1d1d1d</color>
-  <color name="window_background">@color/black</color>
+  <color name="window_background">#1d1d1d</color>
 </resources>

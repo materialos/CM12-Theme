@@ -4,7 +4,7 @@
     <color name="theme_primary_dark">#303F9F</color>
     <color name="theme_accent">#536DFE</color>
 
-    <color name="fbui_facebook_blue">@color/theme_primary</color>
+    <color name="fbui_facebook_blue">#3F51B5</color>
     <color name="fbui_facebook_blue_f0">#F03F51B5</color>
     <color name="fbui_accent_blue">#536DFE</color>
     <color name="fbui_red">#F44336</color>

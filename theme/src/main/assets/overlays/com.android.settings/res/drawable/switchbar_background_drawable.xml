@@ -2,7 +2,7 @@
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
   <item>
     <shape>
-      <solid android:color="@color/switchbar_background_color" />
+      <solid android:color="#42a5f5" />
     </shape>
   </item>
   <item
@@ -11,7 +11,7 @@
     android:right="-6dp"
     android:bottom="-0dp">
     <shape android:shape="rectangle">
-     <stroke android:width="4px" android:color="@color/switchbar_background_color"/>
+     <stroke android:width="4px" android:color="#42a5f5"/>
     </shape>
   </item>
 </layer-list>

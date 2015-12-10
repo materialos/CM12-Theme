@@ -8,6 +8,6 @@
   <color name="icons_color">#448aff</color>
   <color name="switchbar_background_color">#42a5f5</color>
   <color name="switch_accent_color">#ffffffff</color>
-  <color name="theme_dash_icons">@color/theme_accent</color>
+  <color name="theme_dash_icons">#448aff</color>
   <color name="running_processes_apps_ram">#1976d2</color>
 </resources>

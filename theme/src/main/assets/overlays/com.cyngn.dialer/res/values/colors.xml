@@ -5,12 +5,12 @@
     <color name="accent">#ff4081</color>
     <color name="background_dialpad">#FFFFFF</color>
     <color name="dialpad_separator_line_color">#00ffffff</color>
-    <color name="dialpad_icon_tint">@color/dialer_theme_color</color>
-    <color name="dialpad_primary_text_color">@color/accent</color>
+    <color name="dialpad_icon_tint">#673ab7</color>
+    <color name="dialpad_primary_text_color">#ff4081</color>
     <color name="dialer_dialpad_touch_tint">#33ff4081</color>
-    <color name="tab_accent_color">@color/accent</color><!--Tab Underline Color-->
+    <color name="tab_accent_color">#ff4081</color><!--Tab Underline Color-->
     <color name="tab_ripple_color">#ffffff</color>
-    <color name="searchbox_icon_tint">@color/dialer_theme_color</color>
+    <color name="searchbox_icon_tint">#673ab7</color>
 
     <!--Contact Tile Colors-->
     <color name="letter_tile_red_color">#F44336</color>
