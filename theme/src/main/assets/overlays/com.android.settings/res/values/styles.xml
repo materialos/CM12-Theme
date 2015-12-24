@@ -4,8 +4,7 @@
     <item name="android:colorAccent">#448aff</item>
     <item name="android:colorPrimary">#1976d2</item>
     <item name="android:colorPrimaryDark">#1565c0</item>
-    <item name="android:textColorSecondary">#ff767676</item>
-	<item name="android:dividerVertical">@drawable/list_divider_mtrl_alpha</item>
+    <item name="android:dividerVertical">@drawable/list_divider_mtrl_alpha</item>
   </style>
   <style name="Theme.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar.Solid">
     <item name="android:elevation">0dp</item>
