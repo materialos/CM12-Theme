@@ -16,7 +16,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.materialos.cm.theme">
+    package="com.materialos.cm_theme">
 
     <uses-feature android:required="true" android:name="org.cyanogenmod.theme" />
 
@@ -27,7 +27,8 @@
     <meta-data android:name="org.cyanogenmod.theme.email" android:value="@string/theme_email" />
 
     <application android:hasCode="false"
-        android:icon="@drawable/ic_launcher"
-        android:label="@string/theme_name"/>
-
+                 android:icon="@drawable/ic_launcher"
+                 android:label="@string/theme_name">
+                 <meta-data android:name="arcus.support" android:value="true"/>
+    </application>
 </manifest>
