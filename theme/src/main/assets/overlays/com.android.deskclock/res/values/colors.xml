@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Changed Hot Pink to Hot Orange-->
+    <color name="hot_pink">#ffda4336</color>
+    <!-- Name says all-->
+    <color name="default_background">#ff1a237e</color>
+</resources>

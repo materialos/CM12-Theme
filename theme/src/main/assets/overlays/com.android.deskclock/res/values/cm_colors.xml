@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hour_00">#212121</color>
+    <color name="hour_01">#20222A</color>
+    <color name="hour_02">#202233</color>
+    <color name="hour_03">#1F2242</color>
+    <color name="hour_04">#1E224F</color>
+    <color name="hour_05">#1D225C</color>
+    <color name="hour_06">#1B236B</color>
+    <color name="hour_07">#1A237E</color>
+    <color name="hour_08">#1D2783</color>
+    <color name="hour_09">#232E8B</color>
+    <color name="hour_10">#283593</color>
+    <color name="hour_11">#2C3998</color>
+    <color name="hour_12">#303F9F</color>
+    <color name="hour_13">#2C3998</color>
+    <color name="hour_14">#283593</color>
+    <color name="hour_15">#283593</color>
+    <color name="hour_16">#1D2783</color>
+    <color name="hour_17">#1A237E</color>
+    <color name="hour_18">#1B236B</color>
+    <color name="hour_19">#1D225C</color>
+    <color name="hour_20">#1E224F</color>
+    <color name="hour_21">#1F2242</color>
+    <color name="hour_22">#202233</color>
+    <color name="hour_23">#20222A</color>
+</resources>
