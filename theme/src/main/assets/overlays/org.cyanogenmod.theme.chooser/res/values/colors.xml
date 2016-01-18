@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <color name="primary">#d81b60</color>
-  <color name="primary_dark">#880e4f</color>
+  <color name="primary_dark">#c2185b</color>
   <color name="author_grey">#c2185b</color> <!--Apply banner -->
   <color name="accent">#e64683</color>
 
