@@ -18,7 +18,7 @@
 <resources>
 
     <string name="theme_name">MaterialOS</string>
-    <string name="theme_author">MOS Team</string>
+    <string name="theme_author">MaterialOS</string>
     <string name="theme_email">materialopensource@gmail.com</string>
 
 </resources>
