@@ -18,6 +18,7 @@
   <color name="bg_item_activated">#674caf50</color>
   <color name="bg_item_selected">#cc4caf50</color>
   <color name="bg_item_pressed">#674caf50</color>
+  <color name="conversation_bg_color">#FFEEEEEE</color>
 
   <!--Some transparency for a cleaner look-->
   <drawable name="abc_list_divider_holo_dark">#00000000</drawable>
@@ -49,7 +50,37 @@
   <color name="prim_txt_mtrl_dark">#ffffffff</color>
   <color name="sec_txt_mtrl_light">#50000000</color>
   <color name="sec_txt_mtrl_dark">#50ffffff</color>
+  <color name="navigation_drawer_item_text">#df000000</color>
 
   <!--Colors?suprised?,google apps are hard to theme-->
-  <color name="quantum_googgreen500">#ff00c853</color>
- </resources>
+  <color name="quantum_googgreen50">#ffe8f5e9</color>
+  <color name="quantum_googgreen100">#ffc8e6c9</color>
+  <color name="quantum_googgreen200">#ffa5d6a7</color>
+  <color name="quantum_googgreen300">#ff81c784</color>
+  <color name="quantum_googgreen400">#66BB6A</color>
+  <color name="quantum_googgreen500">#4CAF50</color>
+  <color name="quantum_googgreen600">#43A047</color>
+  <color name="quantum_googgreen700">#388E3C</color>
+  <color name="quantum_googgreen800">#2E7D32</color>
+  <color name="quantum_googgreen900">#1B5E20</color>
+  <color name="quantum_googgreenA100">#B9F6CA</color>
+  <color name="quantum_googgreenA200">#69F0AE</color>
+  <color name="quantum_googgreenA400">#00E676</color>
+  <color name="quantum_googgreenA700">#00C853</color>
+
+  <color name="incoming_conversation_bubble_background">#FFFFFFFF</color>
+  <color name="outgoing_conversation_bubble_background">#FFC8E6C9</color>
+
+  <color name="quantum_bluegrey700">#4CAF50</color>
+
+  <!-- Colors using original quantum_bluegrey700-->
+  <color name="text_color_primary_settings">#ff455a64</color>
+  <color name="bg_item_pressed_v2">#ff455a64</color>
+  <color name="voicemail_duration_text">#ff455a64</color>
+  <color name="edit_participants_statusbar_color">#ff455a64</color>
+  <color name="outgoing_conversation_bubble_background_otr">#ff455a64</color>
+  <color name="rich_status_content_color">#ff455a64</color>
+  <color name="status_message_statusbar_color">#ff455a64</color>
+  <color name="people_name">#ff455a64</color>
+
+</resources>
