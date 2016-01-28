@@ -7,9 +7,8 @@
 [materialos/CM12-Theme](https://github.com/materialos/CM12-Theme) is a Material Design Cyanogenmod 12/12.1 theme.
 
 ### Google Play:
-<a href="https://play.google.com/store/apps/details?id=com.materialos.cm.theme">
-  <img alt="Get it on Google Play"
-       src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
+<a href="https://play.google.com/store/apps/details?id=com.materialos.cm.theme&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1">
+  <img alt="Get it on Google Play" width="200px" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge-border.png" />
 </a>
 ### Cyanogen Theme Store:
 Search for MaterialOS in the theme store and there you have it!
@@ -114,4 +113,5 @@ Daniel Hickman and Corbin Crutchley
 - [Material Design System Icons from Google](https://github.com/google/material-design-icons) (CC-BY 4.0)
 - [Official CM 12.1 Theme Template](https://github.com/cyngn/android_packages_themes_Template)
 - [Material Design Icons Colors by @greenraccoon23](https://github.com/GreenRaccoon23/material-design-icons-colors)
+- Android, Google Play and the Google Play logo are trademarks of Google Inc.
 
