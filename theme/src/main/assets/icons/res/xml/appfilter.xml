@@ -6,13 +6,11 @@
     <scale factor=".7" /> -->
 
 <!--TODO
-
-chrome dev
+[icons: cyngn audiofx, camera_alt]
 facebook lite
 libreofficewriter/viewer
 myscript
 napster
-rar
 sanandreas
 starwars wikia
 tsflauncher
@@ -110,8 +108,8 @@ wolz
         drawable="beatport" />
 
     <item 
-	component="ComponentInfo{com.google.android.apps.blogger/com.google.android.apps.blogger.TosActivity}" 
-	drawable="blogger" />
+	   component="ComponentInfo{com.google.android.apps.blogger/com.google.android.apps.blogger.TosActivity}" 
+	   drawable="blogger" />
 
     <item
         component="ComponentInfo{com.box.android/com.box.android.activities.login.SplashScreenActivity}"
@@ -139,6 +137,10 @@ wolz
     <item 
         component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" 
         drawable="chromebeta_alt2"/>
+
+    <item 
+        component="ComponentInfo{com.chrome.dev/com.google.android.apps.chrome.Main}" 
+        drawable="chromedev_alt2"/>
    
     <item
         component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}"
@@ -284,6 +286,10 @@ wolz
         component="ComponentInfo{com.motorola.MotGallery2/com.android.gallery3d.app.GalleryActivity}"
         drawable="gallery" />
 
+    <item 
+        component="ComponentInfo{com.cyngn.gallerynext/com.cyngn.gallerynext.app.GalleryActivity}" 
+        drawable="gallery"/>
+
     <item
         component="ComponentInfo{com.robtopx.geometryjumplite/com.robtopx.geometryjumplite.GeometryDashLite}"
         drawable="geometrydash" />
@@ -308,21 +314,21 @@ wolz
         component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}"
         drawable="googlecamera" />
     <item 
-	component="ComponentInfo{com.android.camera/com.android.camera.Camera}" 
-	drawable="googlecamera" />
-    <item
-	component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" 
-	drawable="googlecamera" />
+	    component="ComponentInfo{com.android.camera/com.android.camera.Camera}" 
+	    drawable="googlecamera" />
+     <item
+	    component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" 
+	    drawable="googlecamera" />
     <item 
-	component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" 
-	drawable="googlecamera" />
+	    component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" 
+	    drawable="googlecamera" />
     <item 
-	component="ComponentInfo{com.cyngn.cameranext/com.android.camera.CameraLauncher}" 
-	drawable="googlecamera" />
+	    component="ComponentInfo{com.cyngn.cameranext/com.android.camera.CameraLauncher}" 
+	    drawable="googlecamera" />
 
     <item 
-	component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" 
-	drawable="googledocs" />
+	    component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" 
+	    drawable="googledocs" />
 
     <item
         component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
@@ -337,21 +343,21 @@ wolz
         drawable="googlekeep" />
 
     <item
-	component="ComponentInfo{com.google.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity}" 
-   	drawable="googlekeyboard" />
+	    component="ComponentInfo{com.google.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity}" 
+   	    drawable="googlekeyboard" />
 
     <item
         component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}"
         drawable="googlemaps"/>
     <item 
-	component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.PlacesActivity}" 
-	drawable="googlemaps"/>
+	    component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.PlacesActivity}" 
+	    drawable="googlemaps"/>
     <item 
-	component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.driveabout.app.DestinationActivity}" 
-	drawable="googlemaps"/>
+	    component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.driveabout.app.DestinationActivity}" 
+	    drawable="googlemaps"/>
     <item 
-	component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.LatitudeActivity}"
-	drawable="googlemaps"/>
+	    component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.LatitudeActivity}"
+	    drawable="googlemaps"/>
   
     <item
         component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}"
@@ -362,8 +368,8 @@ wolz
         drawable="googlemessenger" />
 
     <item 
-	component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" 	 
-	drawable="googlenews" />
+	    component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" 	 
+	    drawable="googlenews" />
 
     <item
         component="ComponentInfo{com.google.android.launcher/com.google.android.launcher.StubApp}"
@@ -378,29 +384,28 @@ wolz
         drawable="googlephotos" />
 
     <item 
-	component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" 
-	drawable="googleplaygames "/>
+	    component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" 
+	    drawable="googleplaygames "/>
 
     <item
         component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}"
         drawable="googleplaymusic" />
 
     <item 
-	component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity}" 
-	drawable="googleplusprofiler" />
+	    component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity}" 
+	    drawable="googleplusprofiler" />
     <item 
-	component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plusone.app.HomeScreenActivity}" 
-	drawable="googleplusprofiler"/>
+	    component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plusone.app.HomeScreenActivity}" 
+	    drawable="googleplusprofiler"/>
     <item 
-	component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.circles.realtimechat.ConversationListActivity}" 
-	drawable="googleplusprofiler" />
+	    component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.circles.realtimechat.ConversationListActivity}" 
+	   drawable="googleplusprofiler" />
     <item 
-	component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.pho}" 
-	drawable="googleplusprofiler" />
+	    component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.pho}" 
+	    drawable="googleplusprofiler" />
 
     <item 
- 	component="ComponentInfo{com.google.android.gms/com.google.android.gms.app.settings.GoogleSettingsActivity}" 		
-	drawable="googlesettings"/>
+ 	    component="ComponentInfo{com.google.android.gms/com.google.android.gms.app.settings.GoogleSettingsActivity}" drawable="googlesettings"/>
 
     <item
         component="ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}"
@@ -415,15 +420,15 @@ wolz
         drawable="googletranslate"/>
 
     <item 
-	component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.android.apps.wallet.WalletRootActivity}" 
-	drawable="google_wallet" />
+	    component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.android.apps.wallet.WalletRootActivity}" 
+	    drawable="google_wallet" />
 
     <item 
-	component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}" 
-	drawable="hangouts" />
+	    component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}" 
+	    drawable="hangouts" />
     <item 
-	component="ComponentInfo{com.google.android.talk/com.google.android.apps.babel.phone.BabelHomeActivity}" 
-	drawable="hangouts" />
+	    component="ComponentInfo{com.google.android.talk/com.google.android.apps.babel.phone.BabelHomeActivity}" 
+	    drawable="hangouts" />
 
     <item
         component="ComponentInfo{com.liquidum.hexlock/com.liquidum.applock.activity.LockScreenActivity}"
@@ -545,8 +550,8 @@ wolz
         drawable="novalauncher"/>
 
     <item
-	component="ComponentInfo{com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity}"
-	drawable="novalauncherprime" />
+	    component="ComponentInfo{com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity}"
+	    drawable="novalauncherprime" />
 
     <item
         component="ComponentInfo{org.npr.one/org.npr.one.HomeActivity}"
@@ -606,6 +611,10 @@ wolz
     <item
         component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}"
         drawable="quickpic" />
+
+    <item 
+        component="ComponentInfo{com.rarlab.rar/com.rarlab.rar.MainActivity}" 
+        drawable="rar"/>
 
     <item
         component="ComponentInfo{com.venticake.retrica/com.venticake.retrica.MainActivity}"
@@ -704,8 +713,8 @@ wolz
         drawable="telegram" />
 
     <item 
-	component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}" 
-	drawable="terminal"/>
+	    component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}" 
+	    drawable="terminal"/>
     
     <item
         component="ComponentInfo{com.and.games505.Terraria/com.and.games505.Terraria.Terraria}"
@@ -789,27 +798,27 @@ wolz
         drawable="vnc" />
 
     <item 
-	component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.AsusRecorder}" 
-	drawable="voicerecorder" />
+	    component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.AsusRecorder}" 
+	    drawable="voicerecorder" />
     <item 
-	component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.RecorderActivity}" 
-	drawable="voicerecorder" />
+	    component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.RecorderActivity}" 
+	    drawable="voicerecorder" />
     <item 
-	component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.Sound}" 
-	drawable="voicerecorder" />
+	    component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.Sound}" 
+	    drawable="voicerecorder" />
     <item 
-	component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" 
-	drawable="voicerecorder" />
+	    component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" 
+	    drawable="voicerecorder" />
     <item 
-	component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorderLauncher}" 
-	drawable="voicerecorder" />
+	    component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorderLauncher}" 
+	    drawable="voicerecorder" />
     <item 
-	component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorderTab}" 
-	drawable="voicerecorder" />
+	    component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorderTab}" 
+	    drawable="voicerecorder" />
 
     <item 
         component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" 
-	drawable="voicesearch"/>    
+	    drawable="voicesearch"/>    
     
     <item
         component="ComponentInfo{com.uzumapps.wakelockdetector/com.uzumapps.wakelockdetector.activity.IntroActivity}"
@@ -847,11 +856,11 @@ wolz
         drawable="wunderlist" />
 
     <item 
-	component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity}" 
-	drawable="xposedinstaller" />
+	    component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity}" 
+	    drawable="xposedinstaller" />
     <item
-	component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.XposedInstallerActivity}" 
-	drawable="xposedinstaller" />
+	    component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.XposedInstallerActivity}" 
+	    drawable="xposedinstaller" />
     
     <item
         component="ComponentInfo{rpkandrodev.yaata/rpkandrodev.yaata.activity.ThreadListActivity}"
