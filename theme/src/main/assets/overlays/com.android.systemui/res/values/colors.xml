@@ -11,6 +11,6 @@
   <color name="qs_detail_empty">#eeeeee</color>
 
   <color name="brightness_thumb">#eeeeee</color>
-  <color name="fab_color">#e95c92</color>
-  <color name="floating_action_button_icon_color">#e95c92</color>
+  <color name="fab_color">#ffffffff</color>
+  <color name="floating_action_button_icon_color">#ff757575</color>
 </resources>
