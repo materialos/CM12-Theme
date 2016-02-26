@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <color name="action_bar_background">#f44336</color>
-  <color name="status_bar_background">#d32f2f</color>
-  <color name="quantum_googred500">#ffc107</color>
-  <color name="quantum_googred700">#ffc107</color>
+  <color name="action_bar_background">#F44336</color>
+  <color name="status_bar_background">#D32F2F</color>
+  <color name="quantum_googred500">#F44336</color>
+  <color name="quantum_googred700">#D32F2F</color>
+  <color name="quantum_grey900">#000000</color>
+  <color name="quantum_black_100">#34ffffff</color>
+  <color name="poll_option_title_black_background_color">#212121</color>
+  <color name="splash_bg">#eeeeee</color>
 </resources>

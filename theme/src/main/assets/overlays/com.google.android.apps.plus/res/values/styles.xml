@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BottomBarItemVertical">
+        <item name="android:textColor">@android:color/transparent</item>
+        <item name="android:paddingTop">18.0dp</item>
+    </style>
+</resources>

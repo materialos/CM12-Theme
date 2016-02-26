@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Notification icon top padding-->
+    <dimen name="navigation_bar_y_top_padding">16.0dip</dimen>
+
+    <item type="dimen" name="navigation_footer_text_size">@dimen/text_size_12_original</item>
+    <item type="dimen" name="space_header_secondary_text_size">@dimen/text_size_12_original</item>
+    <dimen name="text_size_12">0sp</dimen>
+    <dimen name="text_size_12_original">12.0sp</dimen>
+</resources>
