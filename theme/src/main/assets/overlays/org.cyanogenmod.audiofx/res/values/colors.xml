@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <color name="eq_holo_bright">#d500f9</color>
-  <color name="eq_holo_blue">#aa00ff</color>
-  <color name="eq_holo_dark">#8e24aa</color>
-  <color name="eq_red">#ffff1744</color>
-  <color name="eq_green">#ffe040fb</color>
-  <color name="eq_yellow">#ffff4081</color>
-  <color name="primary">#ff222222</color>
-  <color name="primary_dark">#ff222222</color>
-  <color name="accent">#ffd500f9</color>
-  <color name="grid_lines">#64ffffff</color>
-  <color name="highlight">#ffd500f9</color>
-  <color name="lowlight">#ff6200ea</color>
-  <color name="black">#1d1d1d</color>
-  <color name="window_background">#1d1d1d</color>
+  <color name="action_bar_background">#ff1a1823</color>
+  <color name="audiofx_background_color">#ff1a1823</color>
+
+  <color name="primary">#ff1a1823</color>
+  <color name="primary_dark">#ff121117</color>
+  <color name="accent">#ff8468f4</color>
+
+  <color name="window_background">#ff1a1823</color>
+
+  <color name="eq_red">#ff8468f4</color>
+  <color name="eq_green">#ff8468f4</color>
+  <color name="eq_yellow">#ff8468f4</color>
+  <color name="eq_holo_bright">#ff8468f4</color>
+  <color name="eq_holo_blue">#ff8468f4</color>
+  <color name="eq_holo_dark">#ff8468f4</color>
+
+  <color name="highlight">#ffffffff</color>
+  <color name="lowlight">#1fffffff</color>
+
+  <color name="eq_preset_label_text_color">#ffffffff</color>
+  <color name="reverb_label_text_color">#ffffffff</color>
+
+  <color name="cb">#ffffffff</color>
+  <color name="black">#ff1a1823</color>
+
 </resources>
