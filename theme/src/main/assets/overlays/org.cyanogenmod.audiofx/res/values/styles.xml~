@@ -1,7 +1,0 @@
-<resources>
-  <style name="AppTheme" parent="android:Theme.Material">
-    <item name="android:colorPrimary">#ff222222</item>
-    <item name="android:colorPrimaryDark">#ff222222</item>
-    <item name="android:colorAccent"></item>
-    <item name="android:windowBackground">@color/window_background</item>
-  </style>
