@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <color name="theme_primary">#1976d2</color>
-  <color name="theme_primary_dark">#1565c0</color>
-  <color name="theme_accent">#448aff</color>
-  <color name="dashboard_category_background_color">@drawable/dashboard_category_background</color>
-  <color name="dashboard_background_color">@drawable/dashboard_background</color>
-  <color name="icons_color">#448aff</color>
-  <color name="switchbar_background_color">#42a5f5</color>
-  <color name="switch_accent_color">#ffffffff</color>
-  <color name="theme_dash_icons">#448aff</color>
-  <color name="running_processes_apps_ram">#1976d2</color>
+    <color name="theme_primary">#607d8b</color>
+    <color name="theme_primary_dark">#455a64</color>
+    <color name="theme_accent">#00bfa5</color>
+    <color name="dashboard_category_background_color">@drawable/magic</color>
+    <color name="shadow_magic">#07000000</color>
+    <color name="black_magic">#08000000</color>
+    <color name="dash_icon_color">#757575</color>
+    <color name="icon_accent">@color/dash_icon_color</color>
+    <color name="switchbar_background_color">@color/theme_primary</color>
+    <color name="switch_accent_color">#ffffffff</color>
+    <color name="data_usage_stroke_color">#00000000</color>
+    <color name="data_usage_fill_color">@color/theme_accent</color>
+
+    <!-- change if you change accent-->
+    <color name="data_usage_secondary_fill_color">#80009688</color>
 </resources>
