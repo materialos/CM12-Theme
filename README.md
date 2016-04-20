@@ -4,7 +4,7 @@
 
 ## Description:
 
-[materialos/CM12-Theme](https://github.com/materialos/CM12-Theme) is a Material Design Cyanogenmod 12/12.1/13 theme with over 3 million downloads on the Cyanogen Theme Store and close to 50 Thousand on the Play Store. The theme aims to improve the design of your existing apps and making them as close to material design as possible. You'll sure like the fresh new look of your phone!
+[materialos/CM12-Theme](https://github.com/materialos/CM12-Theme) is a Material Design Cyanogenmod 12/12.1/13 theme with close to 50 Thousand Downloads on the Play Store. The theme aims to improve the design of your existing apps and making them as close to material design as possible. You'll sure like the fresh new look of your phone!
 
 ### Google Play:
 <a href="https://play.google.com/store/apps/details?id=com.materialos.cm.theme&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1">
@@ -21,7 +21,7 @@ Look over at /theme/scr/main/assets/overlays to find which app overlays are them
 
 If your interested in helping out or would like to report a bug, [raise an issue](https://github.com/materialos/CM-Theme/issues/new) or [create a pull request](https://github.com/materialos/CM-Theme/pull/new). If you'd like to see an additional icon, [request it on our Icons repo](https://github.com/materialos/Icons/issues/new?title=[Request]%20Icon%20Name&body=-%20[%20]%20Icon%20Name).
 
-You can have a look at the open and unassigned issues, complete those and create a pull request with only relevant changes, so that we can merge it. If you are a designer, you can help us by submitting a themed app concept in our G+ community showing what changes you'd like to see in the app theme. You can also post in the suggestions category if you have an idea/suggestion for improvements.
+You can have a look at the open and unassigned issues, complete those and create a pull request with only relevant changes, so that we can merge it. If you are a designer, you can help us by submitting a themed app concept in our G+ community showing what changes you'd like to see in the app theme. You can also post in the suggestions category if you have an idea/suggestion for improvements. Don't hesitate to contact us in case you need help getting started!
 
 ## Elsewhere on the Web:
 * [Google+ Community](https://goo.gl/Au99fM)

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <color name="system_primary_color">#282d33</color><!--Notification QS Background-->
-  <color name="system_secondary_color">#343a43</color><!--Notification header-->
-  <color name="system_accent_color">#448aff</color>
-  <color name="qs_detail_transition">#202428</color>
+  <color name="system_primary_color">#202428</color><!--Notification QS Background-->
+  <color name="system_secondary_color">#282d33</color><!--Notification header-->
+  <color name="system_accent_color">#18ffff</color>
+  <color name="qs_detail_transition">#282d33</color>
  
   <color name="qs_text">#eeeeee</color>
   <color name="qs_tile_text">#eeeeee</color>
