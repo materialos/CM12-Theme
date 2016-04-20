@@ -25,7 +25,9 @@
   <color name="list_item_divider_color_light">#00000000</color>
   <color name="menu_divider_color">#00000000</color>
   <color name="now_playing_divider">#00000000</color>
-  <color name="widget_divider">#00000000</color>
+
+  <color name="widget_divider">#1fffffff</color>
+  <color name="widget_text">#ffffffff</color>
 
 </resources>
 
