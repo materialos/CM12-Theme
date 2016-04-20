@@ -15,4 +15,6 @@
 
     <!-- change if you change accent-->
     <color name="data_usage_secondary_fill_color">#80009688</color>
+
+    <color name="window_background">#ffe0e0e0</color>
 </resources>
