@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	 <color name="dashboard_category_title_bg_color">@drawable/magic</color>
+    <color name="dashboard_background_color">#ffe0e0e0</color>
 </resources>
