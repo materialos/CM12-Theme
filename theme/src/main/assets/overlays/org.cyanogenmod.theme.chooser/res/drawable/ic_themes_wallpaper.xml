@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <path
+        android:fillColor="@color/drawer_icon"
+        android:pathData="M19.2,3H4.8C3.8,3,3,3.8,3,4.8v14.4c0,1,0.8,1.8,1.8,1.8h14.4c1,0,1.8-0.8,1.8-1.8V4.8
+C21,3.8,20.2,3,19.2,3Z
+M19,5v7.5c-0.8-0.3-1.7-0.4-2.6-0.4c-2.2,0-4.2,0.8-5.7,2.1c-0.8-0.8-1.9-1.2-3-1.2c-1,0-1.9,0.3-2.6,0.9V5
+H19z" />
+</vector>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <path
+        android:fillColor="@color/drawer_icon"
+        android:pathData="M17.7,6.3C19.1,7.8,20,9.8,20,12c0,2.2-0.9,4.2-2.3,5.7C16.2,19.1,14.2,20,12,20c-2.2,0-4.2-0.9-5.7-2.3
+C4.9,16.2,4,14.2,4,12c0-2.2,0.9-4.2,2.3-5.7L4.9,4.9C3.1,6.7,2,9.2,2,12c0,5.5,4.5,10,10,10c5.5,0,10-4.5,10-10
+c0-2.8-1.1-5.3-2.9-7.1L17.7,6.3L17.7,6.3Z" />
+</vector>
