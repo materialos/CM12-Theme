@@ -3,7 +3,8 @@
     <style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Settings">
         <item name="android:colorPrimary">@color/theme_primary</item>
         <item name="android:colorPrimaryDark">@color/theme_primary_dark</item>
-        <item name="android:colorAccent">@color/theme_accent</item>
+        <item name="android:colorAccent">@color/icon_accent</item>
+        <item name="android:colorControlActivated">@color/theme_accent</item>
         <item name="android:listDivider">@android:color/transparent</item>
     </style>
 
