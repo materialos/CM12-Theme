@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="title_bar_height">56.0dip</dimen>
-    <dimen name="publisher_height">56.0dip</dimen>
-    <dimen name="harrison_tab_bar_height">56.0dip</dimen>
-    <dimen name="tab_segments_height">56.0dip</dimen>
-    <dimen name="fbui_text_size_small">12.0sp</dimen>
-</resources>
