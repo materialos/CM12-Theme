@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ripple android:color="#43d81b60" xmlns:android="http://schemas.android.com/apk/res/android" >
-    <item
-        android:state_pressed="true"
-        android:drawable="@color/drawer_item_pressed"/>
-    <item android:drawable="@color/drawer_item_default"/>
-</ripple>
