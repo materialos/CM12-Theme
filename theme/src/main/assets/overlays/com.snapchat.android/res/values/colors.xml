@@ -26,10 +26,10 @@
     0% — 00
     -->
     <color name="colorPrimary">#FF242830</color>
-    <color name="colorPrimaryDark">#FF121415</color>
+    <color name="colorPrimaryDark">#FFFAFAFA</color>
     <color name="colorAccent">#FF00ADB5</color>
-     <color name="green">#FF242830</color>
-     <color name="blue">#ff505050</color>
+     <color name="green">#FF00ADB5</color>
+     <color name="blue">#ff272829</color>
      <color name="purple">#ff6a1b9a</color>
      <color name="status_bar_default_background">#ff00ADB5</color>
     <color name="status_bar_red_background">#ffe45e58</color>
