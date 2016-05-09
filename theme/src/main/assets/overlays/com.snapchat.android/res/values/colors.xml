@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Hex transparency cheatsheet. -->
+    <!--
+    100% — FF
+    95% — F2
+    90% — E6
+    85% — D9
+    80% — CC
+    75% — BF
+    70% — B3
+    65% — A6
+    60% — 99
+    55% — 8C
+    50% — 80
+    45% — 73
+    40% — 66
+    35% — 59
+    30% — 4D
+    25% — 40
+    20% — 33
+    15% — 26
+    10% — 1A
+    5% — 0D
+    0% — 00
+    -->
+    <color name="colorPrimary">#FF242830</color>
+    <color name="colorPrimaryDark">#FF121415</color>
+    <color name="colorAccent">#FF00ADB5</color>
+     <color name="green">#FF242830</color>
+     <color name="blue">#ff505050</color>
+     <color name="purple">#ff6a1b9a</color>
+     <color name="status_bar_default_background">#ff00ADB5</color>
+    <color name="status_bar_red_background">#ffe45e58</color>
+    <color name="divider_grey">#10000000</color>
+    <color name="feed_cell_grey">#33f2f2f2</color>
+    <color name="feed_divider_color">#33f7f8f9</color>
+    <color name="feed_primary_text_color">#ff505050</color>
+    <color name="feed_secondary_text_color">#ff707070</color>
+     <color name="header_divider">#10000000</color>
+     <color name="white">#FFFAFAFA</color>
+     <color name="chat_v2_background_gray_color">#fffafafa</color>
+ 
+</resources>
