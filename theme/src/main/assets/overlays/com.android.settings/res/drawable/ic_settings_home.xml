@@ -3,5 +3,5 @@
     android:width="24dp"
     android:viewportWidth="24"
     android:viewportHeight="24">
-    <path android:fillColor="@color/dash_icon_color" android:pathData="M10,20V14H14V20H19V12H22L12,3L2,12H5V20H10Z" />
+    <path android:fillColor="@*common:color/settings_icon_accent" android:pathData="M10,20V14H14V20H19V12H22L12,3L2,12H5V20H10Z" />
 </vector>
