@@ -3,5 +3,5 @@
     android:width="24dp"
     android:viewportWidth="24"
     android:viewportHeight="24">
-    <path android:fillColor="@*common:color/settings_icon_accent" android:pathData="M15.67,4H14V2H10V4H8.33A1.33,1.33 0 0,0 7,5.33V20.66C7,21.4 7.6,22 8.33,22H15.66C16.4,22 17,21.4 17,20.67V5.33A1.33,1.33 0 0,0 15.67,4M11,20V14.5H9L13,7V12.5H15" />
+    <path android:fillColor="@*common:color/settings_icon_accent" android:pathData="M19.77,7.23L19.78,7.22L16.06,3.5L15,4.56L17.11,6.67C16.17,7.03 15.5,7.93 15.5,9A2.5,2.5 0 0,0 18,11.5C18.36,11.5 18.69,11.42 19,11.29V18.5A1,1 0 0,1 18,19.5A1,1 0 0,1 17,18.5V14A2,2 0 0,0 15,12H14V5A2,2 0 0,0 12,3H6A2,2 0 0,0 4,5V21H14V13.5H15.5V18.5A2.5,2.5 0 0,0 18,21A2.5,2.5 0 0,0 20.5,18.5V9C20.5,8.31 20.22,7.68 19.77,7.23M18,10A1,1 0 0,1 17,9A1,1 0 0,1 18,8A1,1 0 0,1 19,9A1,1 0 0,1 18,10M8,18V13.5H6L10,6V11H12L8,18Z" />
 </vector>

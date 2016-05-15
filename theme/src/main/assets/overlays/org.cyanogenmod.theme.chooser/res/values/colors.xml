@@ -3,9 +3,9 @@
   <color name="white">#fafafa</color>
   <color name="black">#212121</color>
 
-  <color name="primary">#ff9800</color>
-  <color name="primary_dark">#f57c00</color>
-  <color name="accent">#ffab40</color>
+  <color name="primary">#7E57C2</color>
+  <color name="primary_dark">#724EAF</color>
+  <color name="accent">#1DE9B6</color>
 
   <color name="detailedview_pager_background">#eeeeee</color>
   <color name="title_author_background">@color/white</color>
@@ -16,9 +16,9 @@
   <color name="actionbar_text_color">@color/white</color>
   <color name="primary_text_color">@color/black</color>
 <!--till here-->
-  <color name="apply_button_progress_color">#e65100</color>
-  <color name="apply_button_default_color">#f57c00</color>
-  <color name="apply_button_pressed_color">#e65100</color>
+  <color name="apply_button_progress_color">#00BFA5</color>
+  <color name="apply_button_default_color">#1DE9B6</color>
+  <color name="apply_button_pressed_color">#00BFA5</color>
 
   <color name="card_background_default">#333333</color>
   <color name="designed_for_color_dark">#ff8888</color>
@@ -33,7 +33,7 @@
 
   <color name="floating_action_button_touch_tint">#80ffffff</color>
 
-  <color name="theme_accent">#ffab40</color>
+  <color name="theme_accent">#1DE9B6</color>
 
   <!-- Drawer -->
   <color name="drawer_icon">#757575</color>
