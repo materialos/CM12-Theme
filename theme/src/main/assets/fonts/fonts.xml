@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<familyset>
+    <family>
+    	<nameset>
+    		<name>sans-serif</name>
+    		<name>arial</name>
+    		<name>helvetica</name>
+    		<name>tahoma</name>
+    		<name>verdana</name>
+    	</nameset>
+    	<fileset>
+    		<file>normal.ttf</file>
+    		<file>bold.ttf</file>
+    		<file>bold.ttf</file>
+    		<file>bold.ttf</file>
+    	</fileset>
+    </family>
+    <family>
+    	<nameset>
+    		<name>sans-serif-light</name>
+    	</nameset>
+    	<fileset>
+    	    <file>thin.ttf</file>
+    	    <file>thin.ttf</file>
+        </fileset>
+    </family>
+    <family>
+        <nameset>
+    	    <name>sans-serif-thin</name>
+        </nameset>
+        <fileset>
+    	    <file>thin.ttf</file>
+    	    <file>thin.ttf</file>
+        </fileset>
+    </family>
+    <family>
+    	<nameset>
+    		<name>sans-serif-condensed</name>
+    	</nameset>
+    	<fileset>
+    		<file>normal.ttf</file>
+    		<file>normal.ttf</file>
+    		<file>bold.ttf</file>
+    		<file>bold.ttf</file>
+    	</fileset>
+    </family>
+</familyset>
