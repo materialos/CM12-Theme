@@ -19,9 +19,10 @@ Look over at /theme/scr/main/assets/overlays to find which app overlays are them
 
 ## Suggestions and Contributing:
 
-If your interested in helping out or would like to report a bug, [raise an issue](https://github.com/materialos/CM-Theme/issues/new) or [create a pull request](https://github.com/materialos/CM-Theme/pull/new). If you'd like to see an additional icon, [request it on our Icons repo](https://github.com/materialos/Icons/issues/new?title=[Request]%20Icon%20Name&body=-%20[%20]%20Icon%20Name).
+If you are interested in helping out or would like to report a bug, [raise an issue](https://github.com/materialos/CM-Theme/issues/new) or [create a pull request](https://github.com/materialos/CM-Theme/pull/new). If you'd like to see an additional icon, [request it on our Icons repo](https://github.com/materialos/Icons/issues/new?title=[Request]%20Icon%20Name&body=-%20[%20]%20Icon%20Name).
 
-You can have a look at the open and unassigned issues, complete those and create a pull request with only relevant changes, so that we can merge it. If you are a designer, you can help us by submitting a themed app concept in our G+ community showing what changes you'd like to see in the app theme. You can also post in the suggestions category if you have an idea/suggestion for improvements. Don't hesitate to contact us in case you need help getting started!
+Contact us via G+ or hangouts if you want to get involved in making the theme more awesome! 
+
 
 ## Elsewhere on the Web:
 * [Google+ Community](https://goo.gl/Au99fM)
@@ -30,12 +31,13 @@ You can have a look at the open and unassigned issues, complete those and create
 
 ## Contributors:
 **CM Theme Project Leader:**
-- Anurag Kumar
+- [Anurag Kumar](https://plus.google.com/+AnuragKumar380)
 
-**CM Theme Designers:**
-- Anurag Kumar
-- Nils Urbanus
-- Porasjeet Singh
+**CM Theme Contributors:**
+- [Anurag Kumar](https://plus.google.com/+AnuragKumar380)
+- [Alex Lionne](https://plus.google.com/+AlexandreLionne)
+- [Nils Urbanus](https://plus.google.com/+NilsUrbanus) 
+- [Porasjeet Singh](https://plus.google.com/+PorasjeetSingh)
 
 **Wallpaper Creators:**
 - Anas Khan
@@ -45,7 +47,7 @@ You can have a look at the open and unassigned issues, complete those and create
 **Project Leaders:**
 Daniel Hickman and Corbin Crutchley
 
-**Other Contributors:**
+**Icon Pack Contributors:**
 - Alex Mueller (Lollydrop)
 - Anas Khan
 - Anjo Cerdeña
@@ -74,10 +76,6 @@ Daniel Hickman and Corbin Crutchley
 - Vukasin Andelkovic
 - Wayne Kosimoto
 - Zachary Pierson (zangent)
-
-**CM Theme Contributors:**
-- Andrew Neth
-- Kyle Simmons
 
 
 ## License:
