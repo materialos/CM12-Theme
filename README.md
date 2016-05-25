@@ -4,7 +4,7 @@
 
 ## Description:
 
-[materialos/CM12-Theme](https://github.com/materialos/CM12-Theme) is a Material Design Cyanogenmod 12/12.1/13 theme with close to 50 Thousand Downloads on the Play Store. The theme aims to improve the design of your existing apps and making them as close to material design as possible. You'll sure like the fresh new look of your phone!
+[materialos/CM12-Theme](https://github.com/materialos/CM12-Theme) is a Material Design Cyanogenmod 12/12.1/13 theme that aims to improve the design of your existing apps and making them as close to material design as possible. It includes icons, artwork and a lively boot animation along with beautifully themed apps . The theme has over 50 thousand downloads on the play store (and counting). You'll sure like the fresh new look of your phone!
 
 ### Google Play:
 <a href="https://play.google.com/store/apps/details?id=com.materialos.cm.theme&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1">
@@ -13,15 +13,23 @@
 ### Cyanogen Theme Store:
 Search for MaterialOS in the theme store and there you have it!
 
+###Features:
+- A "FABulous" colorful boot animation so you can enjoy while your phone is booting up.
+- 300+ beautiful icons to enhance your home screens. 
+- Many apps (numbers growing with each update) themed according to material design.
+- Colored Nav Bars Arcus Variant (Experimental) to add that extra bit of color and fun to your phones.
+- Beautiful and unique splash screens for Google Apps.
+
 ## What's Themed:
 Look over at /theme/scr/main/assets/overlays to find which app overlays are themed.
 
 
 ## Suggestions and Contributing:
 
-If you are interested in helping out or would like to report a bug, [raise an issue](https://github.com/materialos/CM-Theme/issues/new) or [create a pull request](https://github.com/materialos/CM-Theme/pull/new). If you'd like to see an additional icon, [request it on our Icons repo](https://github.com/materialos/Icons/issues/new?title=[Request]%20Icon%20Name&body=-%20[%20]%20Icon%20Name).
 
-Contact us via G+ or hangouts if you want to get involved in making the theme more awesome! 
+We are a friendly and welcoming community. Getting involved is a great way to learn skills and have fun! So if you're feeling like being awesome, contact us via  G+ or hangouts and get involved in making the theme better! 
+
+If you are interested in helping out or would like to report a bug, [raise an issue](https://github.com/materialos/CM-Theme/issues/new) or [create a pull request](https://github.com/materialos/CM-Theme/pull/new). If you'd like to see an additional icon, [request it on our Icons repo](https://github.com/materialos/Icons/issues/new?title=[Request]%20Icon%20Name&body=-%20[%20]%20Icon%20Name).
 
 
 ## Elsewhere on the Web:
