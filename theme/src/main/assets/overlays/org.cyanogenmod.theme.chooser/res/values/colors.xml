@@ -15,10 +15,10 @@
 
   <color name="actionbar_text_color">@color/white</color>
   <color name="primary_text_color">@color/black</color>
-<!--till here-->
-  <color name="apply_button_progress_color">#00BFA5</color>
-  <color name="apply_button_default_color">#1DE9B6</color>
-  <color name="apply_button_pressed_color">#00BFA5</color>
+
+  <color name="apply_button_progress_color">@color/primary_dark</color>
+  <color name="apply_button_default_color">@color/primary</color>
+  <color name="apply_button_pressed_color">@color/primary_dark</color>
 
   <color name="card_background_default">#333333</color>
   <color name="designed_for_color_dark">#ff8888</color>
@@ -33,10 +33,10 @@
 
   <color name="floating_action_button_touch_tint">#80ffffff</color>
 
-  <color name="theme_accent">#1DE9B6</color>
+  <color name="theme_accent">@color/accent</color>
 
   <!-- Drawer -->
-  <color name="drawer_icon">#757575</color>
+  <color name="drawer_icon">#737373</color>
   <color name="drawer_item_textcolor">@color/black</color>
   <color name="drawer_item_default">@color/white</color>
   <color name="drawer_item_pressed">#e0e0e0</color>
