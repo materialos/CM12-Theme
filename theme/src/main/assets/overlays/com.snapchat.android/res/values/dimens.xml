@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="action_bar_button_size_with_padding">56.0dip</dimen>
+    <dimen name="action_bar_height">56.0dip</dimen>
+    <dimen name="chat_edit_bar_height">56.0dip</dimen>
+    <dimen name="deep_link_add_friend_snapcode_container_width_height">256.0dip</dimen>
+    <dimen name="default_gap_6x">56.0dip</dimen>
+    <dimen name="discover_video_player_height">56.0dip</dimen>
+    <dimen name="incoming_button_margin">56.0dip</dimen>
+    <dimen name="loading_screen_horizontal_margin">56.0dip</dimen>
+    <dimen name="my_story_swipe_info_height">56.0dip</dimen>
+    <dimen name="my_story_viewer_container_height">56.0dip</dimen>
+    <dimen name="notification_bar_height">56.0dip</dimen>
+    <dimen name="profile_button_size">56.0dip</dimen>
+    <dimen name="registration_continue_button_height">56.0dip</dimen>
+    <dimen name="send_to_cell_min_height">56.0dip</dimen>
+    <dimen name="stories_search_bar_margin_right">56.0dip</dimen>
+    <dimen name="story_reply_view_caption_min_height">56.0dip</dimen>
+    <dimen name="title_with_back_button_margin">56.0dip</dimen>
+    <dimen name="video_player_height">56.0dip</dimen>
+ <dimen name="default_gap">16.0dip</dimen>
+ <dimen name="default_gap_2x">16.0dip</dimen>
+     <dimen name="feed_cell_height">72.0dip</dimen>
+    <dimen name="feed_cell_primary_text_size">16.0sp</dimen>
+    <dimen name="feed_cell_secondary_text_size">12.0sp</dimen>
+    
+        <dimen name="launch_screen_logo_bottom">16.0dip</dimen>
+    <dimen name="launch_screen_text_bottom">48.0dip</dimen>
+</resources>
